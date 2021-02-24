@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Argon Jekyll Theme
+  site_title: Data Science by Design
   favicon_image: /assets/img/favicon.png
 
 header_settings:
@@ -39,9 +39,9 @@ menu_settings:
       - title: Blog
         url: /blog
         icon: ni-books text-primary
-    - title: 'Features'
+    - title: 'Featured'
       url: '/features'     
-    - title: Pricing
+    - title: Events
       url: /pricing        
     - title: 'Blog'
       submenu_items:
@@ -63,7 +63,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Argon & Jekyll, together at last.
+  footer_tagline: Data Science by Design  
 
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
