@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /assets/img/favicon.png
 
 header_settings:
-  logo_image: /assets/img/brand/white.png
-  mobile_logo_image: /assets/img/brand/blue.png
+  logo_image: /assets/img/brand/DSxD_logo-02-orange.png
+  mobile_logo_image: /assets/img/brand/DSxD_logo-02-blue.png
   # Choose a color for your header [blue, dark, light].
   theme: dark
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
@@ -21,7 +21,7 @@ blog_settings:
     # basic – a simple list of posts
     # narrow – a masonary grid of posts
     # grid – a full-width square grid of posts
-  theme: narrow
+  theme: basic
   # Should we display a narrow grid of other posts at the bottom of each blog post?
   read_more: "yes"
 
