@@ -5,12 +5,17 @@ description: Use the Argon Jekyll theme to build a landing page, blog or complet
 featured_image: /assets/img/pages/city_3-02.jpg
 ---
 
+### About DSxD
+
+### People
+
+### FAQ
 
 <!-- {% include components/teams/team-carousel-1.html %}
  -->
 ---
 
-{% include components/teams/team-carousel-2.html %}
+<!-- {% include components/teams/team-carousel-2.html %} -->
 
 <!-- ---
 ```components/teams/team-carousel-3.html ```

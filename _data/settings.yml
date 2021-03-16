@@ -32,35 +32,18 @@ blog_settings:
 menu_settings:
   menu_items:
     - title: 'Home'
-      submenu_items:
-      - title: Landing Page
-        url: /
-        icon: ni-spaceship text-success    
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-    # - title: 'Featured'
-    #   url: '/features'     
+      url: /    
     - title: Events
       url: /events       
     - title: 'Blog'
-      submenu_items:
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
-      - title: Narrow Grid Example
-        url: /blog-narrow-example
-        icon: ni-align-center text-success
-      - title: Wide Grid Example
-        url: /blog-grid-example
-        icon: ni-image text-info
-      - title: List Example
-        url: /blog-list-example
-        icon: ni-bullet-list-67 text-default    
+      url: /blog
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+
+## Old set up for "subtitles"
+
 
 footer_settings:
   footer_tagline: Data Science by Design  
@@ -72,16 +55,16 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 
-  twitter_url: 
-  instagram_url: 
+  facebook_url: 'https://www.facebook.com/jekyllthemes/'
+  twitter_url: 'https://twitter.com/jekyllthemesio'
+  instagram_url:  ''
   youtube_url: ''
   vimeo_url: ''
   pinterest_url: ''
   tumblr_url: ''
   dribbble_url: ''
   behance_url: ''
-  github_url: 
+  github_url: 'https://twitter.com/jekyllthemesio'
   reddit_url: ''
   linkedin_url: ''
 
