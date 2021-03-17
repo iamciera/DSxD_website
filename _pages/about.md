@@ -7,9 +7,16 @@ featured_image: /assets/img/pages/city_3-02.jpg
 
 ### About DSxD
 
+We are a grant funded project aimed at celebrating the fundamental creativity of data science. Please read more about why we started DSxD [here](http://127.0.0.1:4000/blog/dsxd-announce) and our plans for 2021 [here](../blog/dsxd-overview). 
+
 ### People
 
-### FAQ
+**Leads**: Ciera Martinez, Sara Stoudt, Valeri Vasquez
+
+**Committee**: Rebecca Barter, Ijeamaka Anyene, Sharla Gelfand, Allison Horst
+
+There will be oppurtunities to help organize different aspects of this project in the near future - stay tuned!
+
 
 <!-- {% include components/teams/team-carousel-1.html %}
  -->
