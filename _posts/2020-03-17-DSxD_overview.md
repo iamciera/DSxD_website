@@ -23,7 +23,7 @@ So if you love data and identify as a student, an educator, a researcher, data s
 
 **Summer of Design**: Once we have the ideas flowing from the spring “Creator Conference”, we’ll use the summer to iterate on products. These could include a personal essay, a drawing, a zine, an explainer, or a how-to guide on your best practices for research, communicating a methodology, or even examining work culture. As a community of creators we’ll share strategies for iteration and provide accountability and support. 
 
-**Creator Grants**: We understand that for many people taking the time to create is hard because of time and financial constraints. Please apply for a Creator Grant to support your efforts, whether they are individual or team-based. 
+**Creator Grants**: We understand that for many people taking the time to create is hard because of time and financial constraints. Please apply for a Creator Grant to support your efforts, whether they are individual or team-based. Coming Soon!
 
 ### Beautify, Curate, and Amplify 
 
@@ -33,7 +33,7 @@ Anthology: Inspired by zines,magazines, and anthologies that bring multiple voic
 
 ## Stay Tuned! 
 
-We’ll be posting more specific information about the spring “Creator Conference” very soon including dates, speakers, and workshop details. Keep an eye out for the application to attend as a participant [link to our website! 
+We’ll be posting more specific information about the spring “Creator Conference” very soon including dates, speakers, and workshop details. Keep an eye out for the application to attend as a participant on [our website](http://datasciencebydesign.org/) soon! 
 
 <img src="../assets/img/posts/DSxD_timeline.jpg" alt="Overview Schematic">
 
