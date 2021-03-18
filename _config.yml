@@ -1,7 +1,6 @@
 site: Data Science by Design
 
-url: https://www.datasceincebydesign.org
-baseurl: 
+baseurl: "/"
 
 collections:
   pages:
