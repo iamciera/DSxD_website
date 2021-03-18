@@ -5,7 +5,7 @@ description: We’re  ramping up for an exciting year, and want to share our pla
 featured_image: /assets/img/sections/starburst-01.jpg
 ---
 
-DSxD’s mission is to celebrate the fundamental creativity of data science. We support those who leverage creative mediums to convey the insights brought by data, and the practice of data science. We are establishing a community dedicated to developing a more open, ethical, and inclusive future for the field. Our [first blog post]() explains a bit more about who we are.
+DSxD’s mission is to celebrate the fundamental creativity of data science. We support those who leverage creative mediums to convey the insights brought by data, and the practice of data science. We are establishing a community dedicated to developing a more open, ethical, and inclusive future for the field. Our [first blog post](http://datasciencebydesign.org/blog/dsxd-announce) explains a bit more about who we are.
 
 So if you love data and identify as a student, an educator, a researcher, data scientist, a designer, an artist, an analyst, an engineer, or as something else entirely, this project is for you. Everyone is welcome! 
 
