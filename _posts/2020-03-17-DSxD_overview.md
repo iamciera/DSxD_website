@@ -2,7 +2,7 @@
 title: 2021 Overview!
 date: 2020-03-16 00:00:00
 description: We’re  ramping up for an exciting year, and want to share our plans with you!  
-featured_image: /assets/img/sections/ijeamaka_design.png
+featured_image: /assets/img/sections/starburst-01.jpg
 ---
 
 DSxD’s mission is to celebrate the fundamental creativity of data science. We support those who leverage creative mediums to convey the insights brought by data, and the practice of data science. We are establishing a community dedicated to developing a more open, ethical, and inclusive future for the field. Our [first blog post]() explains a bit more about who we are.
