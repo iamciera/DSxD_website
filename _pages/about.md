@@ -11,11 +11,17 @@ We are a grant funded project aimed at celebrating the fundamental creativity of
 
 ### People
 
-**Leads**: Ciera Martinez, Sara Stoudt, Valeri Vasquez
+**Leads**: Ciera Martinez ([@cierareports](https://twitter.com/CieraReports)), Sara Stoudt ([@sastoudt](https://twitter.com/sastoudt)), Valeri Vasquez ([@valeri_vasquez](https://twitter.com/valeri_vasquez))
 
-**Committee**: Rebecca Barter, Ijeamaka Anyene, Sharla Gelfand, Allison Horst
+**Committee**: Ijeamaka Anyene ([@ijeamaka_a](https://twitter.com/ijeamaka_a)), Rebecca Barter ([@rlbarter](https://twitter.com/rlbarter)), Sharla Gelfand ([@sharlagelfand](https://twitter.com/sharlagelfand)), Allison Horst ([@allison_horst](https://twitter.com/allison_horst))
 
 There will be oppurtunities to help organize different aspects of this project in the near future - stay tuned!
+
+## Contact
+
+Have ideas to share? Let us know [here](https://docs.google.com/forms/d/e/1FAIpQLSdprP0oGESh9bMnL9WSQZqSKAwcNHOT0z2Gjljz23U-2okJhA/viewform).
+
+Want to be kept informed? Join our listserv [here](https://groups.google.com/u/0/g/datasciencebydesign?pli=1).
 
 
 <!-- {% include components/teams/team-carousel-1.html %}
