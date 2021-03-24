@@ -25,7 +25,7 @@ Want to be kept informed? Join our listserv [here](https://groups.google.com/u/0
 
 ## Who supports us?
 
-We are thrilled to have received funding for Data Science by Design from [Code for Science and Society](https://codeforscience.org/) and an [Acedemic Data Science Alliance](https://academicdatascience.org/) Career Development Network (CDN) [Seed Grant](https://academicdatascience.org/cdn/seed-grants). We have additional support from the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/) part of the [Computing, Data Science, and Society (CDSS)](https://data.berkeley.edu/) at UC Berkeley.
+We are thrilled to have received funding for Data Science by Design from [Code for Science and Society](https://codeforscience.org/) and an [Academic Data Science Alliance](https://academicdatascience.org/) Career Development Network (CDN) [Seed Grant](https://academicdatascience.org/cdn/seed-grants). We have additional support from the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/) part of the [Computing, Data Science, and Society (CDSS)](https://data.berkeley.edu/) at UC Berkeley.
 
 Do you or your company or organization want to help support these efforts? Donation options [here](https://opencollective.com/data-science-by-design).
 

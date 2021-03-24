@@ -22,7 +22,7 @@ featured_image: /assets/img/lines/DSxD_lines-05.png
 Do you have a data story to tell but need help broadening your audience? Do you wish you had some time and support to exercise the creative side of your data-loving brain?
 
 
-On May 27 and 28th, we are hosting a 2 half day conference where we will come together to get over that activation energy to start (or finish) creative data-related projects. We’ll learn about others’ creative processes and storytelling techniques and work through design exercises that will push us to get creating. 
+On May 27 and 28th, we are hosting a a conference spread over two half days (5 hours each day), where we will come together to get over that activation energy to start (or finish) creative data-related projects. We’ll learn about others’ creative processes and storytelling techniques and work through design exercises that will push us to get creating. 
 
 <img src="../assets/img/lines/DSxD_lines-07.png" alt="Overview Schematic" align="right" height="300">
 
