@@ -42,7 +42,7 @@ This conference is part of our [Data Science by Design (DSxD) initiative](http:/
 
 Maybe you identify as a student, an educator, a researcher, a designer, an artist, an analyst, an engineer, or as something else entirely. All career stages - everyone is welcome! 
 
-As organizers of Data Science by Design, we are committed to fostering a supportive community among participants. One of our priorities for this event is to increase the amount of people who see themselves in data-related fields. Therefore, we strongly encourage applications from women and other underrepresented genders, people of color, people who are LGBTQ, people with disabilities or any other underrepresented minorities in data-related fields. To ensure an inclusive experience for everyone who participates, we will follow a code of conduct.
+As organizers of Data Science by Design, we are committed to fostering a supportive community among participants. One of our priorities for this event is to increase the amount of people who see themselves in data-related fields. Therefore, we strongly encourage applications from women and other underrepresented genders, people of color, people who are LGBTQ, people with disabilities or any other underrepresented minorities in data-related fields. To ensure an inclusive experience for everyone who participates, we will follow a [code of conduct](http://datasciencebydesign.org/coc).
 
 ### Apply
 
