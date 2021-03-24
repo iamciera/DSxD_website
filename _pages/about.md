@@ -2,7 +2,7 @@
 title: About Us
 subtitle: 
 description: 
-featured_image: /assets/img/pages/city_3-02.jpg
+featured_image: /assets/img/pages/city_3-01.jpg
 ---
 
 ### About DSxD
