@@ -46,7 +46,7 @@ As organizers of Data Science by Design, we are committed to fostering a support
 
 ### Apply
 
-Apply here: [https://forms.gle/kECLXC9zACLyt2Js9](tinyurl.com/CreatorConf)
+Apply here: [https://forms.gle/kECLXC9zACLyt2Js9](https://forms.gle/kECLXC9zACLyt2Js9)
 
 Each applicant is asked to submit a short application that responds to *at least two* of the following. The application can feature creative mediums (e.g., a page of illustrations) but we ask that you do write out in English (1) your full name (2) your email address and (3) what items below you are focusing on: 
 
