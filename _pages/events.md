@@ -44,11 +44,11 @@ Maybe you identify as a student, an educator, a researcher, a designer, an artis
 
 As organizers of Data Science by Design, we are committed to fostering a supportive community among participants. One of our priorities for this event is to increase the amount of people who see themselves in data-related fields. Therefore, we strongly encourage applications from women and other underrepresented genders, people of color, people who are LGBTQ, people with disabilities or any other underrepresented minorities in data-related fields. To ensure an inclusive experience for everyone who participates, we will follow a [code of conduct](http://datasciencebydesign.org/coc).
 
-### Apply
+### Apply to Attend
 
 Apply here: [https://forms.gle/kECLXC9zACLyt2Js9](https://forms.gle/kECLXC9zACLyt2Js9)
 
-Each applicant is asked to submit a short application that responds to *at least two* of the following. The application can feature creative mediums (e.g., a page of illustrations) but we ask that you do write out in English (1) your full name (2) your email address and (3) what items below you are focusing on: 
+We want attendees to come with ideas.  Each applicant is asked to submit a short application that responds to *at least two* of the following. The application can feature creative mediums (e.g., a page of illustrations) but we ask that you do write out in English (1) your full name (2) your email address and (3) what items below you are focusing on: 
 
 -  **Pitch us.** What project are you already working on OR would you love to work on, given the time and resources, at the intersection of data science and the creative arts? See examples below!
 -  **Share with us.** Are there two examples of work at the intersection of data science and the creative arts that inspire/motivate/excite you? Please include links or references, where applicable. 
