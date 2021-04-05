@@ -56,7 +56,7 @@ We want attendees to come with ideas.  Each applicant is asked to submit a short
 
 ### Project Examples and Scope
 
-The scope for the application to attend above is essenitally - communicating data and working with data (ex. best practices) through creative mediums. We are looking for people who want to work on projects that they are passionate about including but definetly not limited to data visualizations. Below are some examples and ideas of projects that are within scope:
+The scope for the Creator Conf application includes anything relevant to communicating about data or working with data (e.g., best practices) using creative mediums. We are looking for people who want to work on projects that they are passionate about, including (but definitely not limited to!) data visualizations. Below are some examples of project ideas that are within scope:
  
 **Format Examples**
 
@@ -64,7 +64,7 @@ The scope for the application to attend above is essenitally - communicating dat
 -  interviews
 -  websites
 -  tutorials
--  data story/presentations (data viz, sonification, sculpture, ect)
+-  data story/presentations (data viz, sonification, sculpture, etc.)
 -  zine
 -  or something else! 
  
