@@ -54,5 +54,35 @@ We want attendees to come with ideas.  Each applicant is asked to submit a short
 -  **Share with us.** Are there two examples of work at the intersection of data science and the creative arts that inspire/motivate/excite you? Please include links or references, where applicable. 
 -  **Think with us.** What would your goals be coming out of this experience? What are the contributions you feel you’re best placed to make to enrich the experience of other participants?
 
+### Project Examples and Scope
+
+The scope for the application to attend above is essenitally - communicating data and working with data (ex. best practices) through creative mediums. We are looking for people who want to work on projects that they are passionate about including but definetly not limited to data visualizations. Below are some examples and ideas of projects that are within scope:
+ 
+**Format Examples**
+
+-  short essays or stories
+-  interviews
+-  websites
+-  tutorials
+-  data story/presentations (data viz, sonification, sculpture, ect)
+-  zine
+-  or something else! 
+ 
+**Topic Examples**
+
+-  exploration of a dataset
+-  how to create community in data, computer science or related fields
+-  personal narratives about working in or wanting to work in data, computer science or related fields
+-  data science workflows
+-  concepts explained/taught
+-  diversity and inclusion
+-  computing challenges
+-  algorithmic bias
+-  accessibility
+-  burn out
+-  best practices
+-  or something else!
+
+
 Questions? Contact us at datasciencebydesign@gmail.com
 
