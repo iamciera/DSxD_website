@@ -8,7 +8,7 @@ featured_image: /assets/img/lines/DSxD_lines-05.png
 
 <center><H2> DSxD Creator Conference </H2></center>
 <center><H4> May 27 & 28, 2021 </H4></center>
-<center><b>apply</b>: <a href="https://forms.gle/kECLXC9zACLyt2Js9">here</a></center>
+<center><b>Apply to attend</b>: <a href="https://forms.gle/kECLXC9zACLyt2Js9">here</a></center>
 
 
 <br>
@@ -66,6 +66,7 @@ The scope for the Creator Conf application includes anything relevant to communi
 -  tutorials
 -  data story/presentations (data viz, sonification, sculpture, etc.)
 -  zine
+-  software library or package
 -  or something else! 
  
 **Topic Examples**
