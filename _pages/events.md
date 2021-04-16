@@ -38,6 +38,12 @@ As we learn, we’ll be coming up with our own ideas and thinking about what res
 
 This conference is part of our [Data Science by Design (DSxD) initiative](http://datasciencebydesign.org/blog/dsxd-overview)  aimed to bring together data enthusiasts of all kinds to use creative mediums to communicate data-related work and establish new collaborations across domains. The Creator Conference’s role is to kick off the eventual creation of personal essays, drawings, explainers, or how-to guides on research best practices, findings, methodology, or even work culture. 
 
+---
+
+{% include components/teams/team-carousel-2.html %}
+
+---
+
 ### We want you!
 
 Maybe you identify as a student, an educator, a researcher, a designer, an artist, an analyst, an engineer, or as something else entirely. All career stages - everyone is welcome! 
