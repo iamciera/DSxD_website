@@ -44,7 +44,7 @@ This conference is part of our [Data Science by Design (DSxD) initiative](http:/
 
 ---
 
-### We want you!
+## We want you to Attend!
 
 Maybe you identify as a student, an educator, a researcher, a designer, an artist, an analyst, an engineer, or as something else entirely. All career stages - everyone is welcome! 
 
@@ -60,7 +60,7 @@ We want attendees to come with ideas.  Each applicant is asked to submit a short
 -  **Share with us.** Are there two examples of work at the intersection of data science and the creative arts that inspire/motivate/excite you? Please include links or references, where applicable. 
 -  **Think with us.** What would your goals be coming out of this experience? What are the contributions you feel you’re best placed to make to enrich the experience of other participants?
 
-### Project Examples and Scope
+#### Application Help: Project Examples and Scope
 
 The scope for the Creator Conf application includes anything relevant to communicating about data or working with data (e.g., best practices) using creative mediums. We are looking for people who want to work on projects that they are passionate about, including (but definitely not limited to!) data visualizations. Below are some examples of project ideas that are within scope:
  
