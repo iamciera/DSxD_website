@@ -8,7 +8,8 @@ featured_image: /assets/img/lines/DSxD_lines-05.png
 
 <center><H2> DSxD Creator Conference </H2></center>
 <center><H4> May 27 & 28, 2021 </H4></center>
-<center><b>Apply to attend</b>: <a href="https://forms.gle/kECLXC9zACLyt2Js9">here</a></center>
+<center><b>Apply to attend</b>: <a href="https://forms.gle/kECLXC9zACLyt2Js9">here.</a> Apply by <b>May 10</b> to ensure your application is reviewed.</center>
+
 
 
 <br>
@@ -44,7 +45,7 @@ This conference is part of our [Data Science by Design (DSxD) initiative](http:/
 
 ---
 
-## We want you to Attend!
+## We Want You to Attend!
 
 Maybe you identify as a student, an educator, a researcher, a designer, an artist, an analyst, an engineer, or as something else entirely. All career stages - everyone is welcome! 
 
@@ -52,7 +53,7 @@ As organizers of Data Science by Design, we are committed to fostering a support
 
 ### Apply to Attend
 
-Apply here: [https://forms.gle/kECLXC9zACLyt2Js9](https://forms.gle/kECLXC9zACLyt2Js9)
+Apply here: [https://forms.gle/kECLXC9zACLyt2Js9](https://forms.gle/kECLXC9zACLyt2Js9) Apply by <b>May 10</b> to ensure your application is reviewed.
 
 We want attendees to come with ideas.  Each applicant is asked to submit a short application that responds to *at least two* of the following. The application can feature creative mediums (e.g., a page of illustrations) but we ask that you do write out in English (1) your full name (2) your email address and (3) what items below you are focusing on: 
 
