@@ -1,1 +1,12 @@
+body {
 
+}
+.card-profile[data-image="profile-image"] .card-image img {
+  object-fit: cover;
+  
+}
+.card-profile[data-image="profile-image"] .card-image {
+      @media screen and (max-width: 767px) {
+              height: auto;
+ }
+}
