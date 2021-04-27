@@ -8,15 +8,16 @@ featured_image: /assets/img/lines/DSxD_lines-05.png
 
 <center><H2> DSxD Creator Conference </H2></center>
 <center><H4> May 27 & 28, 2021 </H4></center>
-<center><b>Apply to attend</b>: <a href="https://forms.gle/kECLXC9zACLyt2Js9">here.</a> Apply by <b>May 10</b> to ensure your application is reviewed.</center>
+<center><H4> 9 - 3 Pacific, 12 - 6 Eastern </H4></center>
+<center><H4><b>Apply to attend</b>: <a href="https://forms.gle/kECLXC9zACLyt2Js9">here.</a></H4></center> 
 
-
+<center>Apply by <b>May 10</b> to ensure your application is reviewed.</center>
 
 <br>
 
 <center><img src="../assets/img/lines/DSxD_lines-04.png" alt="Overview Schematic" height="50"></center>
-<br>
 
+<br>
 
 ### About
 
