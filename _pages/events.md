@@ -95,3 +95,9 @@ The scope for the Creator Conf application includes anything relevant to communi
 
 Questions? Contact us at datasciencebydesign@gmail.com
 
+## Schedule 
+
+{% include components/schedule.html %}
+
+
+
