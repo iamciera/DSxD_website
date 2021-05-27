@@ -37,6 +37,10 @@ menu_settings:
       url: /events       
     - title: 'Blog'
       url: /blog
+    - title: 'Grants & Anthology'
+      url: /grants
+    - title: 'Code of Conduct'
+      url: /coc
     - title: 'About'
       url: '/about'
     # - title: 'Contact'
