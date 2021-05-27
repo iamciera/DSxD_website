@@ -6,12 +6,10 @@ featured_image: /assets/img/grant_header.png
 ---
 
 <center><H3>Important Dates </H3></center>
-<center><b>Apply for Grants</b>: June 2 - June 18, 2021</center>
+<center><b>Apply for Grants</b>: June 18, 2021 (link to apply soon!)</center> 
 <center><b>Submit for Anthology</b>: September 03, 2021</center>
 
 <br><br>
-
-
 
 
 
@@ -61,7 +59,7 @@ Remember, you don’t have an expert in the topic or medium of your proposal! Th
 
 ## About the DSxD Grants
 
-We will be accepting final submissions for the printed anthology starting August 1, 2021 and the submission period closes on September 15, 2021. We understand that for many -- especially this year -- there are financial reasons that may make it hard to participate. For this reason we are happy to be able to provide  small grants for individuals or groups to create projects and develop their submission pieces. 
+We will be accepting final submissions for the printed anthology starting August 1, 2021 and the submission period closes on September 03, 2021. We understand that for many -- especially this year -- there are financial reasons that may make it hard to participate. For this reason we are happy to be able to provide  small grants for individuals or groups to create projects and develop their submission pieces. 
 
 To help with planning, and to give us an opportunity to hear from you about how we can best support you as you complete your piece, there will be a required interim report due August 1, 2021 (specifics forthcoming in a later post).  This can also serve as an accountability measure for you, something we have found very useful to the successful completion of projects. 
 
@@ -101,7 +99,7 @@ Tell us what data you will explore, what data-based results you will share in an
 Tell us who you are trying to reach with this work and why. 
 
 **What is the scope of your project?**
-Tell us what the final deliverable will be: what do you want to present to the world by September 15, 2021 (when submissions to the anthology close)?  Consider the time constraints when defining your scope! It may help to think about a Plan A (your dream) and Plan B (the “good enough” version).
+Tell us what the final deliverable will be: what do you want to present to the world by September 03, 2021 (when submissions to the anthology close)?  Consider the time constraints when defining your scope! It may help to think about a Plan A (your dream) and Plan B (the “good enough” version).
 
 **What is your connection to the theme of the anthology?**
 Tell us how you think your work connects to the theme of “The Future.” This is open to broad  interpretation! 
