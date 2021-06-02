@@ -6,11 +6,11 @@ featured_image: /assets/img/grant_header.png
 ---
 
 <center><H3>Important Dates </H3></center>
-<center><b>Apply for Grants</b>: June 18, 2021 (link to apply soon!)</center> 
+<center><b>Apply for Grants</b>: June 18, 2021</center> 
 <center><b>Submit for Anthology</b>: September 03, 2021</center>
+<center><H4><b>Apply</b>: <a href="https://forms.gle/hGQ5tjC1ywCFVv5BA">here.</a></H4></center> 
 
 <br><br>
-
 
 
 <center><H1> “The Future”: Creating it and funding it </H1></center>
@@ -87,22 +87,25 @@ Reach out to us to see if we can accommodate the request.
 
 ## Applying for the DSxD Grants
 
-The grant application includes prompts to help you specify your idea and outline a budget -- two very important aspects of successfully developing a creative piece of work that hopefully can fit into the printed Anthology. The entire application should be no longer than 500 words (not including title), and the budget should describe how you would use the grant money. 
+The grant application includes prompts to help you specify your idea and outline a budget -- two very important aspects of successfully developing a creative piece of work that hopefully can fit into the printed Anthology. The entire application should be no longer than 4-5 paragraphs (not including title or budget), and the budget should describe how you would use the grant money. 
 
 **What is the title of your project?**
-A working version of your title (we understand that this may change before the piece is final!). 
+What is the title of your project? A working version of your title. We understand that this may change before the piece is final. (Length: 3- 10 words)
 
 **How is your piece relevant to data?**
-Tell us what data you will explore, what data-based results you will share in an accessible way, or what data-centric concept or methodological approach you will explain to a broad audience. 
+How is your piece relevant to data?  Tell us what data you will explore, what data-based results you will share in an accessible way, or what data-centric concept or methodological approach you will explain to a broad audience. (Length: 2- 5 sentences)
 
 **Who is your audience?**
-Tell us who you are trying to reach with this work and why. 
+Who is your audience? Tell us who you are trying to reach with this work and why. (Length: 2 - 5 sentences)	
 
 **What is the scope of your project?**
-Tell us what the final deliverable will be: what do you want to present to the world by September 03, 2021 (when submissions to the anthology close)?  Consider the time constraints when defining your scope! It may help to think about a Plan A (your dream) and Plan B (the “good enough” version).
+What is the scope of your project?  Tell us what the final deliverable will be: what do you want to present to the world by submission deadline, September 03, 2021?  Consider the time constraints when defining your scope! It may help to think about a Plan A your dream and Plan B the “good enough” version.  (Length: 2 - 5 sentences)
 
 **What is your connection to the theme of the anthology?**
-Tell us how you think your work connects to the theme of “The Future.” This is open to broad  interpretation! 
+What is your connection to the theme of the anthology? Tell us how you think your work connects to the theme of “The Future of Data Science”. This is open to broad  interpretation!  (Length: 2 - 5 sentences)
+
+**Budget**
+You will be asked to upload a budget itemizing how you will spend the money. Please see [budget template](http://bit.ly/budget-template-dsxd).
 
 
 
