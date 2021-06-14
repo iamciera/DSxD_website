@@ -18,7 +18,7 @@ featured_image: /assets/img/grant_header.png
 
 <img src="../assets/img/fields_DSxD_J1.png" alt="Introducing Grants Science Fiction Poster.  Planets, data visualizations, stars, and rocket man above a futuristic city." align="right" height="600">
 
-One part of the [Data Science by Design (DSxD) initiative](http://datasciencebydesign.org/blog/dsxd-overview) that we are especially excited about is showcasing the work created by the newly established DSxD community. The theme for this anthology is “The Future.”
+One part of the [Data Science by Design (DSxD) initiative](http://datasciencebydesign.org/blog/dsxd-overview) that we are especially excited about is showcasing the work created by the newly established DSxD community. The theme for this printed anthology is “The Future.”
 
 We named this project to intentionally reflect our desire to design for a future in data science: a future with more of a focus on creativity, yes, but also a future with more transparency, inclusiveness, and personal responsibility. 
 
@@ -59,7 +59,7 @@ Remember, you don’t have an expert in the topic or medium of your proposal! Th
 
 ## About the DSxD Grants
 
-We will be accepting final submissions for the printed anthology starting August 1, 2021 and the submission period closes on September 03, 2021. We understand that for many -- especially this year -- there are financial reasons that may make it hard to participate. For this reason we are happy to be able to provide  small grants for individuals or groups to create projects and develop their submission pieces. 
+We will be accepting final submissions for the printed anthology starting August 1, 2021 and the submission period closes on September 03, 2021. We understand that for many -- especially this year -- there are financial reasons that may make it hard to participate. For this reason we are happy to be able to provide  small grants for individuals or groups to create projects and develop their submission pieces. Again, the work will be presented in a printed anthology, so your piece will have to be presented in 1-5 pages of a book and be connected to this years theme "The Future of Data Science". 
 
 To help with planning, and to give us an opportunity to hear from you about how we can best support you as you complete your piece, there will be a required interim report due August 1, 2021 (specifics forthcoming in a later post).  This can also serve as an accountability measure for you, something we have found very useful to the successful completion of projects. 
 
@@ -87,7 +87,7 @@ Reach out to us to see if we can accommodate the request.
 
 ## Applying for the DSxD Grants
 
-The grant application includes prompts to help you specify your idea and outline a budget -- two very important aspects of successfully developing a creative piece of work that hopefully can fit into the printed Anthology. The entire application should be no longer than 4-5 paragraphs (not including title or budget), and the budget should describe how you would use the grant money. 
+The grant application includes prompts to help you specify your idea and outline a budget -- two very important aspects of successfully developing a creative piece of work that hopefully can fit into the printed Anthology. The entire application should be no longer than 4-5 paragraphs (not including title or budget), and the budget should describe how you would use the grant money. Again, the work will be presented in a printed anthology, so your piece will have to be presented in 1-5 pages of a book and be connected to this years theme "The Future of Data Science". 
 
 **What is the title of your project?**
 What is the title of your project? A working version of your title. We understand that this may change before the piece is final. (Length: 3- 10 words)
@@ -99,7 +99,7 @@ How is your piece relevant to data?  Tell us what data you will explore, what da
 Who is your audience? Tell us who you are trying to reach with this work and why. (Length: 2 - 5 sentences)	
 
 **What is the scope of your project?**
-What is the scope of your project?  Tell us what the final deliverable will be: what do you want to present to the world by submission deadline, September 03, 2021?  Consider the time constraints when defining your scope! It may help to think about a Plan A your dream and Plan B the “good enough” version.  (Length: 2 - 5 sentences)
+What is the scope of your project?  Tell us what the final deliverable will be: what do you want to present to the world by submission deadline, September 03, 2021?  Consider the time constraints when defining your scope! It may help to think about a Plan A your dream and Plan B the “good enough” version.  Again, the work will be presented in a printed anthology, so your piece will have to be presented in 1-5 pages of a book and be connected to this years theme "The Future of Data Science". (Length: 2 - 5 sentences)
 
 **What is your connection to the theme of the anthology?**
 What is your connection to the theme of the anthology? Tell us how you think your work connects to the theme of “The Future of Data Science”. This is open to broad  interpretation!  (Length: 2 - 5 sentences)
