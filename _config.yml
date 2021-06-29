@@ -2,6 +2,9 @@ site: Data Science by Design
 
 baseurl: "/"
 
+layout: default
+comments: true
+
 collections:
   pages:
     output: true

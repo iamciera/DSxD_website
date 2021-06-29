@@ -12,7 +12,7 @@ Every session was designed to activate ideas and showcase process over end resul
 <center>
 <figure>
 	<img src="../assets/img/playthink/cartoon.png" height="400" alt="Cartoon: I stumbled upon a creator conference data science folks of all kinds and it was....Packed with sage advie, inclusive and welcoming, full of support to get creative juices flowing. Last Column. Thank you DSxD Community! I'm so glad I found you even it it meant I had to briefly morph from an early bird to a night owl.">
-	<figcaption>Image by Alexandra Khoo (www.alexandrakoo.com) </figcaption>
+	<figcaption>Image by Alexandra Khoo (www.alexandrakhoo.com) </figcaption>
 </figure>
 </center>
 
