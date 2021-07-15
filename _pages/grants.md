@@ -6,9 +6,8 @@ featured_image: /assets/img/grant_header.png
 ---
 
 <center><H3>Important Dates </H3></center>
-<center><b>Apply for Grants</b>: June 18, 2021</center> 
 <center><b>Submit for Anthology</b>: September 03, 2021</center>
-<center><H4><b>Apply</b>: <a href="https://forms.gle/hGQ5tjC1ywCFVv5BA">here.</a></H4></center> 
+<center><b>Apply for Grants</b>: June 18, 2021 (now closed) </center> 
 
 <br><br>
 
