@@ -7,7 +7,7 @@ featured_image: /assets/img/grant_header.png
 
 <center><H3>Important Dates </H3></center>
 <center><b>Submit for Anthology</b>: September 03, 2021</center>
-<center><b>Apply for Grants</b>: June 18, 2021 (now closed) </center> 
+<center><b>Grant Submission Closed</b> </center> 
 
 <br><br>
 
@@ -52,15 +52,19 @@ We hope that Creator Conference attendees and the broader public will be energiz
 -  Using and creating dashboards as an example of best practices 
 
 
-Remember, you don’t have an expert in the topic or medium of your proposal! This is a chance to dive deep into a topic you’ve wanted to learn, and then present it to a community that can’t wait to hear about it.
+Remember, you don’t have an expert in the topic or medium of your proposal! This is a chance to dive deep into a topic you’ve wanted to learn, and then present it to a community that can’t wait to hear about it. 
+
+We will be accepting submissions for the printed anthology starting August 3, 2021 through September 3, 2021. Please email datasciencebydesign.org with the subject line "DSxD Anthology Submission" a paragraph description of what you would like to submit and how it fits with the theme of the anthology. We will then get back to you if we think your piece would fit!
 
 ---
 
-## About the DSxD Grants
+## About the DSxD Grants 
 
-We will be accepting final submissions for the printed anthology starting August 1, 2021 and the submission period closes on September 03, 2021. We understand that for many -- especially this year -- there are financial reasons that may make it hard to participate. For this reason we are happy to be able to provide  small grants for individuals or groups to create projects and develop their submission pieces. Again, the work will be presented in a printed anthology, so your piece will have to be presented in 1-5 pages of a book and be connected to this years theme "The Future of Data Science". 
+(Submissions now closed)
 
-To help with planning, and to give us an opportunity to hear from you about how we can best support you as you complete your piece, there will be a required interim report due August 1, 2021 (specifics forthcoming in a later post).  This can also serve as an accountability measure for you, something we have found very useful to the successful completion of projects. 
+We understand that for many -- especially this year -- there are financial reasons that may make it hard to participate. For this reason we are happy to be able to provide  small grants for individuals or groups to create projects and develop their submission pieces. Again, the work will be presented in a printed anthology, so your piece will have to be presented in 1-5 pages of a book and be connected to this years theme "The Future of Data Science". 
+
+To help with planning, and to give us an opportunity to hear from you about how we can best support you as you complete your piece, there will be a required interim report due August 3, 2021 (specifics forthcoming in a later post).  This can also serve as an accountability measure for you, something we have found very useful to the successful completion of projects. 
 
 **How much money does the grant include?**
 Each grant applicant is eligible for between $250 - $600.  
@@ -84,7 +88,7 @@ Reach out to us to see if we can accommodate the request.
 
 --- 
 
-## Applying for the DSxD Grants
+### Applying for the DSxD Grants
 
 The grant application includes prompts to help you specify your idea and outline a budget -- two very important aspects of successfully developing a creative piece of work that hopefully can fit into the printed Anthology. The entire application should be no longer than 4-5 paragraphs (not including title or budget), and the budget should describe how you would use the grant money. Again, the work will be presented in a printed anthology, so your piece will have to be presented in 1-5 pages of a book and be connected to this years theme "The Future of Data Science". 
 
