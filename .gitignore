@@ -3,4 +3,5 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-vendor/bundle/ruby/2.6.0/
+vendor/
+.bundle/
