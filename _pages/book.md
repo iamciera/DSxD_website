@@ -15,7 +15,7 @@ We named this project to intentionally reflect our desire to design for a future
 
 We may not know what the future holds but we do know that the future of data science can be what we design it to be!
 
-The books is a collaboration featuring data designers, scientists, and artists. 
+The book is a collaboration featuring data designers, scientists, and artists. 
 
 
 ## Contributors
