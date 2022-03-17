@@ -44,4 +44,13 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+exclude:
+- .ruby-gemset
+- .ruby-version
+- Gemfile
+- Gemfile.lock
+- Makefile
+- README.md
+- vendor/
   

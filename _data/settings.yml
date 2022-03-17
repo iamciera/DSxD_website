@@ -37,15 +37,16 @@ menu_settings:
       url: /events       
     - title: 'Blog'
       url: /blog
-    - title: 'Grants & Anthology'
-      url: /grants
+    - title: 'Book'
+      url: /book
     - title: 'Code of Conduct'
       url: /coc
     - title: 'About'
       url: '/about'
     # - title: 'Contact'
     #   url: '/contact'
-
+    # - title: 'Grants & Anthology'
+    #   url: /grants
 ## Old set up for "subtitles"
 
 
