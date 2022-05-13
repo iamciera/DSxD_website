@@ -7,7 +7,7 @@ featured_image: /assets/img/grant_header.png
 
 <img src="../assets/img/book_cover.png" alt="Introducing Grants Science Fiction Poster.  Planets, data visualizations, stars, and rocket man above a futuristic city." align="right" height="500">
 
-## Book Release Soon - May 2022
+## Book Release Soon - June 1, 2022
 
 One part of the Data Science by Design (DSxD) initiative that we are especially excited about is showcasing the work created by the newly established DSxD community. The theme for this printed anthology is “The Future of Data Science.”
 
