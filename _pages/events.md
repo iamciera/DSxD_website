@@ -7,11 +7,9 @@ featured_image: /assets/img/lines/DSxD_lines-05.png
 
 
 <center><H2> DSxD Creator Conference </H2></center>
-<center><H4> May 27 & 28, 2021 </H4></center>
-<center><H4> 9 - 3 Pacific, 12 - 6 Eastern </H4></center>
-<center><H4><b>Apply to attend</b>: <a href="https://forms.gle/kECLXC9zACLyt2Js9">here.</a></H4></center> 
+<center><H4> Took place on May 27 & 28, 2021 </H4></center>
 
-<center>Applications now closed.</center>
+<center>Applications now closed. Read about the event <a href = "https://datasciencebydesign.org/blog/creator-conf"> here</a>.</center>
 
 <br>
 
