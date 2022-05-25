@@ -10,7 +10,7 @@ featured_image: /assets/img/grant_header.png
 ## <span style="color:firebrick">**DSxD's Future of Data Science Anthology**</span>
 ### **Book Release: June 1, 2022**
 
-**Stay tuned on this page for how to purchase the book. On Wednesday June 1, 2022 we will release the link to buy ($10) the printed version. In order to give each piece time to shine, we will release two chapters a week on our website. By August, the whole Anthology will be freely available online.**
+**Stay tuned to this page for how to purchase the book. On Wednesday June 1, 2022 we will release the link to buy ($10) the printed version. To give each piece time to shine, we will release two chapters a week on our website. By August, the whole Anthology will be freely available online.**
 
 One part of the Data Science by Design (DSxD) initiative that we are especially excited about is showcasing the work created by the newly established DSxD community. The theme for this printed anthology is “The Future of Data Science.” We named this project to intentionally reflect our desire to design for a future in data science: a future with more of a focus on creativity, yes, but also a future with more transparency, inclusiveness, and personal responsibility.
 
