@@ -37,7 +37,7 @@ menu_settings:
       url: /events       
     - title: 'Blog'
       url: /blog
-    - title: 'Book'
+    - title: 'Anthology'
       url: /book
     - title: 'Code of Conduct'
       url: /coc

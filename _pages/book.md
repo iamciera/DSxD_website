@@ -1,5 +1,5 @@
 ---
-title: The Future of Data Science Book
+title: The Future of Data Science Anthology
 subtitle: A collection of work by data designers, scientists, and artists
 description: 
 featured_image: /assets/img/grant_header.png
@@ -7,18 +7,46 @@ featured_image: /assets/img/grant_header.png
 
 <img src="../assets/img/book_cover.png" alt="Introducing Grants Science Fiction Poster.  Planets, data visualizations, stars, and rocket man above a futuristic city." align="right" height="500">
 
-## Book Release Soon - June 1, 2022
+## <span style="color:firebrick">**DSxD's Future of Data Science Anthology**</span>
+### **Book Release: June 1, 2022**
 
-One part of the Data Science by Design (DSxD) initiative that we are especially excited about is showcasing the work created by the newly established DSxD community. The theme for this printed anthology is “The Future of Data Science.”
+**Stay tuned on this page for how to purchase the book. On Wednesday June 1, 2022 we will release the link to buy ($10) the printed version. In order to give each piece time to shine, we will release two chapters a week on our website. By August, the whole Anthology will be freely available online.**
 
-We named this project to intentionally reflect our desire to design for a future in data science: a future with more of a focus on creativity, yes, but also a future with more transparency, inclusiveness, and personal responsibility.
+One part of the Data Science by Design (DSxD) initiative that we are especially excited about is showcasing the work created by the newly established DSxD community. The theme for this printed anthology is “The Future of Data Science.” We named this project to intentionally reflect our desire to design for a future in data science: a future with more of a focus on creativity, yes, but also a future with more transparency, inclusiveness, and personal responsibility.
+
+This Anthology is a collaboration featuring data designers, scientists, and artists. It is a work curated by the Data Science by Design community to establish both a call to action and vision for what data science can be. The anthology brings together the voices of the Data Science by Design community and other contributors who inspire that community. The Anthology has 19 sections full of original color illustrations and photos, including essays, zines, data visualizations, interviews, and more. Inside you will find an emphasis on inclusion, strong community, and creative approaches to working with data. We hope each reader will find something that resonates with them and helps them find their place in data science.
 
 We may not know what the future holds but we do know that the future of data science can be what we design it to be!
 
-The book is a collaboration featuring data designers, scientists, and artists. 
+
+<br>
+
+## <span style="color:firebrick">Book Contents</span>
+
+|                                                                                                | **Online Release** |
+|------------------------------------------------------------------------------------------------|--------------------|
+| **A Conversation with Mimi Ọnụọha** Natalie O’Shea                                             |             June 1 |
+| **The Process of Making “the Count”** Deji Dabiri and Bunmi Aworanti                           |             June 1 |
+| **A Zine to Show Scientists How to Make Their Data More Accessible** Leonore Reiser            |             June 8 |
+| **Sweeping Untufted Charts Under the Rug** Violeta Roizman                                     |             June 8 |
+| **A Conversation with Danielle Navarro** Sharla Gelfand                                        |            June 15 |
+| **Twelve Quick Tips for Software Design** Greg Wilson                                          |            June 15 |
+| **Writing A “modeler’s MaNifesto” for More Transparent, Ethical Data Science** M.V. Eitzel     |            June 22 |
+| **A Conversation with Saskia Freeke** Natalie O’Shea                                           |            June 22 |
+| **Livestreaming My Coding Mistakes to the World** Jesse Mostipak                               |            June 29 |
+| **Distilltools: Creating a Curated, Collaborative Community Package** Ella Kaye                |            June 29 |
+| **Visualizing our Daily Realities** Danne Woo                                                  |             July 6 |
+| **The Making of the Do No Harm Guide** Alice Feng                                              |             July 6 |
+| **Beyond Binaries** Madeline Arnold                                                            |            July 13 |
+| **The Future of Data Science Includes Slow Data Science** Tim Schoof                           |            July 13 |
+| **Encoding Fermentation: A Multisensory Approach to Understanding Fermentation Data** Maxene Graze |            July 20 |
+| **Seeing Harmony, Hearing Color** Justin Lind                                                  |            July 20 |
+| **A Conversation with Nadieh Bremer** Sharla Gelfand                                           |            July 27 |
+| **A Personal Response to “datafication”** Alexandra Khoo                                       |            July 27 |
+| **When We Miss Missingness** Cat Hicks                                                         |            July 27 |
 
 
-## Contributors
+<!-- ## Contributors
 
 <b> 
 Alexandra Khoo <span>&#183;</span>
@@ -42,6 +70,6 @@ Saskia Freeke <span>&#183;</span>
 Sharla Gelfand <span>&#183;</span>
 Tim Schoof <span>&#183;</span> 
 </b>
-
+ -->
 
 
