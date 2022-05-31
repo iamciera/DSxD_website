@@ -36,8 +36,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 
 |                                                                                                | **Online Release** |
 |------------------------------------------------------------------------------------------------|--------------------|
-| **A Conversation with Mimi Ọnụọha** Natalie O’Shea                                             |             June 1 |
-| **The Process of Making “the Count”** Deji Dabiri and Bunmi Aworanti                           |             June 1 |
+| [**A Conversation with Mimi Ọnụọha**](https://datasciencebydesign.org/blog/conversation-with-mimi) Natalie O’Shea                                             |             June 1 |
+| [**The Process of Making “the Count”**](https://datasciencebydesign.org/blog/the-process-of-making-the-count) Deji Dabiri and Bunmi Aworanti                           |             June 1 |
 | **A Zine to Show Scientists How to Make Their Data More Accessible** Leonore Reiser            |             June 8 |
 | **Sweeping Untufted Charts Under the Rug** Violeta Roizman                                     |             June 8 |
 | **A Conversation with Danielle Navarro** Sharla Gelfand                                        |            June 15 |

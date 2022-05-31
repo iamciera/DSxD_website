@@ -45,7 +45,8 @@ We desperately need to improve and strengthen our digital readiness in order to 
 </center>
 
 
-<sup>1</sup> Future of Data Science Supplemental Material. [http://datasciencebydesign.org/book](http://datasciencebydesign.org/book){:target="_blank"}{:rel="noopener noreferrer"}
+<sup>1</sup> The Count: An analysis of the 2019 Nigerian elections. By Bunmi Aworanti & Deji Dabiri. <a href="/assets/pdfs/the_count.pdf" download>PDF Download</a>
+
 
 <sup>2</sup> INEC Nigeria – Independent National Electoral Commission. [www.inecnigeria.org/](https://www.inecnigeria.org/){:target="_blank"}{:rel="noopener noreferrer"}
 
