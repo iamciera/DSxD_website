@@ -1,6 +1,6 @@
 ---
 title: "Encoding Fermentation: a Multisensory Approach to Understanding Fermentation Data"
-date: 2022-01-01 00:00:00
+date: 2022-07-20 00:00:00
 description: Maxene Graze
 featured_image: /assets/img/sections/pattern_19.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Making of the Do No Harm Guide
-date: 2022-01-01 00:00:00
+date: 2022-07-06 00:00:00
 description: Alice Feng, illustration by Ashley Caswell.
 featured_image: /assets/img/theme/feng_header.jpg
 ---

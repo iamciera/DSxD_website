@@ -1,6 +1,6 @@
 ---
 title: Beyond Binaries
-date: 2022-01-01 00:00:00
+date: 2022-07-13 00:00:00
 description: Madeline Arnold
 featured_image: /assets/img/sections/starburst-01.jpg
 ---

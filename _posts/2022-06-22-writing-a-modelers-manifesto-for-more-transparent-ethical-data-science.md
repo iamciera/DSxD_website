@@ -1,6 +1,6 @@
 ---
 title: Writing a “modeler’s Manifesto” for More Transparent, Ethical Data Science
-date: 2022-01-01 00:00:00
+date: 2022-06-22 00:00:00
 description: M.V. Eitzel, illustration by Noemi De Feo. Based in part on Eitzel 2021<sup>1</sup>
 featured_image: /assets/img/theme/Eitzel-header - final.png
 ---

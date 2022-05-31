@@ -1,6 +1,6 @@
 ---
 title: "Distilltools: Creating a Curated, Collaborative Community Package"
-date: 2022-01-01 00:00:00
+date: 2022-06-29 00:00:00
 description: Ella Kaye, Distilltools hex sticker by Freddie Yauner (https://freddieyauner.co.uk).
 featured_image: /assets/img/theme/kaye_header_image.jpg
 ---

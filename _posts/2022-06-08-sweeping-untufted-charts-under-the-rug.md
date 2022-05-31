@@ -1,6 +1,6 @@
 ---
 title: Sweeping Untufted Charts Under the Rug
-date: 2022-01-01 00:00:00
+date: 2022-06-08 00:00:00
 description: Violeta Roizman
 featured_image: /assets/img/sections/pattern_19.jpg
 ---

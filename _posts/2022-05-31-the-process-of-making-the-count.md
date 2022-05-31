@@ -1,11 +1,11 @@
 ---
 title: The Process of Making “The Count”
-date: 2022-01-01 00:00:00
-description: Deji Dabiri and Bunmi Aworanti
+date: 2022-05-31 00:00:00
+description: This article follows the process of the development of “The Count”, an analysis of the 2019 Nigerian elections. It was developed by Bunmi Aworanti & Deji Dabiri<sup>1</sup>.
 featured_image: /assets/img/theme/dabiri_header.jpg
 ---
 
-*This article follows the process of the development of “The Count”, an analysis of the 2019 Nigerian elections. It was developed by Bunmi Aworanti & Deji Dabiri<sup>1</sup>.*
+<span style="font-size:85%"> ***Deji Dabiri** is a marketing and technology entrepreneur and a cofounder of Swift Digital Motions. He is passionate about renewable energy and climate change. He is interested in how data science can be used for better decision-making in governance and its role is creating a more equitable, fairer society. **Bunmi Aworanti** is a data scientist working in the applied AI field with past experience as a software engineer. She is also passionate about how data science and technology can be used in art, storytelling, and the Internet of Things to create interactive and immersive experiences.*</span>
 
 The Independent National Electoral Commission (INEC) was established by the 1999 Constitution of the Federal Republic of Nigeria to organise elections into various political offices in the country. Through a series of legislative actions culminating in the Electoral Act of 2015, biometric voting registers and electronic voting via smart card readers were implemented in time for the 2015 Nigerian elections, making it much easier to collect, store, and distribute election statistics. It marked the first time that election data was electronically available to the general public, and this was continued for the 2019 elections. We were excited to explore the 2019 election data to see what we could learn. Here we present the process we went through, highlight problems we encountered, and discuss our vision for public data in Africa.
 
@@ -44,12 +44,9 @@ We desperately need to improve and strengthen our digital readiness in order to 
 </figure>
 </center>
 
-*Deji Dabiri is a marketing and technology entrepreneur and a cofounder of Swift Digital Motions. He is passionate about renewable energy and climate change. He is interested in how data science can be used for better decision-making in governance and its role is creating a more equitable, fairer society.*
 
-*Bunmi Aworanti is a data scientist working in the applied AI field with past experience as a software engineer. She is also passionate about how data science and technology can be used in art, storytelling, and the Internet of Things to create interactive and immersive experiences.*
+<sup>1</sup> Future of Data Science Supplemental Material. [http://datasciencebydesign.org/book](http://datasciencebydesign.org/book){:target="_blank"}{:rel="noopener noreferrer"}
 
-<sup>1</sup> Future of Data Science Supplemental Material. [www.arabidopsis.org](http://datascience-bydesign.org/book)
+<sup>2</sup> INEC Nigeria – Independent National Electoral Commission. [www.inecnigeria.org/](https://www.inecnigeria.org/){:target="_blank"}{:rel="noopener noreferrer"}
 
-<sup>2</sup> INEC Nigeria – Independent National Electoral Commission. [www.inecnigeria.org](www.inecnigeria.org)
-
-<sup>3</sup> Richardson, L. Beautiful Soup. [https://www.crummy.com/software/BeautifulSoup/](https://www.crummy.com/software/BeautifulSoup/)
+<sup>3</sup> Richardson, L. Beautiful Soup. [https://www.crummy.com/software/BeautifulSoup/](https://www.crummy.com/software/BeautifulSoup/){:target="_blank"}{:rel="noopener noreferrer"}

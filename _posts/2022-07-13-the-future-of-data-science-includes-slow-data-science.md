@@ -1,6 +1,6 @@
 ---
 title: The Future of Data Science Includes Slow Data Science
-date: 2022-01-01 00:00:00
+date: 2022-07-13 00:00:00
 description: Tim Schoof
 featured_image: /assets/img/sections/ijeamaka_design.png
 ---

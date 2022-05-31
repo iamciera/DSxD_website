@@ -1,6 +1,6 @@
 ---
 title: A Personal Response to “Datafication”
-date: 2022-01-01 00:00:00
+date: 2022-07-27 00:00:00
 description: Alexandra Khoo
 featured_image: /assets/img/theme/koo_header.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: A Conversation With Danielle Navarro
-date: 2022-01-01 00:00:00
+date: 2022-06-15 00:00:00
 description: Interviewed by Sharla Gelfand
 featured_image: /assets/img/faces/danielle.jpg
 ---

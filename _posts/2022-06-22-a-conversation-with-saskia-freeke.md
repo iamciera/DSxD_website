@@ -1,6 +1,6 @@
 ---
 title: A Conversation With Saskia Freeke
-date: 2022-01-01 00:00:00
+date: 2022-06-22 00:00:00
 description: Interviewed by Natalie O’Shea
 featured_image: /assets/img/faces/saskia.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: An ode to the summer camp vibes of &#35CreatorConf
-date: 2021-05-24 00:00:00
+date: 2021-06-24 00:00:00
 description: Overview of DSxD hosted virtual conference that brought together creative data enthusiast across all fields. 
 featured_image: /assets/img/lines/asset_2.png
 --- 

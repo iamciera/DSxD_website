@@ -1,6 +1,6 @@
 ---
 title: Seeing Harmony, Hearing Color
-date: 2022-01-01 00:00:00
+date: 2022-07-20 00:00:00
 description: Justin Lind
 featured_image: /assets/img/sections/starburst-01.jpg
 ---

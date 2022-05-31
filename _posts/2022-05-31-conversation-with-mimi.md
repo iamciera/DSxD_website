@@ -1,7 +1,7 @@
 ---
 title: A Conversation With Mimi Ọnụọha
-date: 2022-05-31 00:00:00
-description: Interviewed by Natalie O’Shea 
+date: 2022-05-31 00:00:01
+description: An interview with artist Mimi Ọnụọha on their background and process of making work exploring power dynamics behind data collection. Interviewed by Natalie O’Shea.
 featured_image: /assets/img/gradient_header.png
 ---
 
@@ -9,7 +9,7 @@ featured_image: /assets/img/gradient_header.png
   <img height="300" src="../assets/img/faces/mimi.jpg" alt="Black and white illustration of a women with braided hair looking down and smiling" >
 </p>
 
-*Mimi Ọnụọha is an Igbo-American artist and writer whose work is about what happens when the world is made to fit the form of data. Her interdisciplinary practices uses print, code, installation, and video to call attention to the ways in which disenfranchised communities experience different relationships to systems that are digital, cultural, historical, and ecological.*
+<span style="font-size:85%">*[Mimi Ọnụọha](https://mimionuoha.com/) is an Igbo-American artist and writer whose work is about what happens when the world is made to fit the form of data. Her interdisciplinary practices uses print, code, installation, and video to call attention to the ways in which disenfranchised communities experience different relationships to systems that are digital, cultural, historical, and ecological.*</span>
 
 <br>
 

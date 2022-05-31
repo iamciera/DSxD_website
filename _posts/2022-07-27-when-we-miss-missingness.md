@@ -1,6 +1,6 @@
 ---
 title: When We Miss Missingness
-date: 2022-01-01 00:00:00
+date: 2022-07-27 00:00:00
 description: Cat Hicks, illustration by Katarzyna Surman.
 featured_image: /assets/img/theme/hicks_header.jpeg
 ---

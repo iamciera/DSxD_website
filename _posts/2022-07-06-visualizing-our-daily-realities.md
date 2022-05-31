@@ -1,6 +1,6 @@
 ---
 title: Visualizing Our Daily Realities
-date: 2022-01-01 00:00:00
+date: 2022-07-06 00:00:00
 description: Danne Woo
 featured_image: /assets/img/sections/ijeamaka_design.png
 ---
