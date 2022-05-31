@@ -8,9 +8,15 @@ featured_image: /assets/img/grant_header.png
 <img src="../assets/img/book_cover.png" alt="Introducing Grants Science Fiction Poster.  Planets, data visualizations, stars, and rocket man above a futuristic city." align="right" height="500">
 
 ## <span style="color:firebrick">**DSxD's Future of Data Science Anthology**</span>
-### **Book Release: June 1, 2022**
 
-**Stay tuned to this page for how to purchase the book. On Wednesday June 1, 2022 we will release the link to buy ($10) the printed version. To give each piece time to shine, we will release two chapters a week on our website. By August, the whole Anthology will be freely available online.**
+<p align="center">
+<div class="buttons">
+    <a href="http://tinyurl.com/FutureDS" class="btn btn-primary">
+      Buy Book Here
+    </a>
+</div>
+</p>
+
 
 One part of the Data Science by Design (DSxD) initiative that we are especially excited about is showcasing the work created by the newly established DSxD community. The theme for this printed anthology is “The Future of Data Science.” We named this project to intentionally reflect our desire to design for a future in data science: a future with more of a focus on creativity, yes, but also a future with more transparency, inclusiveness, and personal responsibility.
 
@@ -18,10 +24,15 @@ This Anthology is a collaboration featuring data designers, scientists, and arti
 
 We may not know what the future holds but we do know that the future of data science can be what we design it to be!
 
-
-<br>
+<p align="center">
+<img src="../assets/img/book1.jpg" alt="Photograph of an open book with two full page art works in a garden with red and purple flowers" height="200">
+<img src="../assets/img/book2.jpg" alt="Photograph of an open book with illustration and text in a garden with purple flowers" height="200">
+<img src="../assets/img/book3.jpg" alt="Photograph of an open book with illustration and text in a garden with yellow flowers" height="200">
+</p>
 
 ## <span style="color:firebrick">Book Contents</span>
+
+To give each piece time to shine, we will release two chapters a week on our website. By August, the whole Anthology will be freely available online.
 
 |                                                                                                | **Online Release** |
 |------------------------------------------------------------------------------------------------|--------------------|
