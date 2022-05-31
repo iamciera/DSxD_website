@@ -16,7 +16,7 @@ featured_image: /assets/img/grant_header.png
     </a>
 </div>
 </p>
-
+<br>
 
 One part of the Data Science by Design (DSxD) initiative that we are especially excited about is showcasing the work created by the newly established DSxD community. The theme for this printed anthology is “The Future of Data Science.” We named this project to intentionally reflect our desire to design for a future in data science: a future with more of a focus on creativity, yes, but also a future with more transparency, inclusiveness, and personal responsibility.
 
