@@ -1,8 +1,8 @@
 ---
 title: Sweeping Untufted Charts Under the Rug
-date: 2022-06-08 00:00:00
-description: Violeta Roizman
-featured_image: /assets/img/sections/pattern_19.jpg
+date: 2022-06-07 00:00:00
+description: Violeta Roizman experiments with tactile ways to present data by creating a data viz rug.
+featured_image: /assets/img/roizman_header.jpg
 ---
 
 When discussing the future of data science during the Creator Conference, one of the main ideas that resonated with me was improving accessibility to data and information. As part of my everyday work, I usually create data visualizations to summarize and communicate insights to clients and stakeholders. I want those insights to be available to everyone, so as a minimum requirement, visualizations I put out there on the web should include alt-text. Alt-text (short for alternative text) is a description of an image that can be read out loud by screen readers, assistive technology for interacting with the content on computer screens without relying on sight. I wondered what the progress of accessibility in the overall dataviz field was. I imagined a line chart for the number of published data visualizations with alt-text: an increasing number, still low in the present but constantly increasing towards the future.
