@@ -1,6 +1,6 @@
 ---
 title: Sweeping Untufted Charts Under the Rug
-date: 2022-06-07 00:00:00
+date: 2022-06-08 00:00:00
 description: Violeta Roizman experiments with tactile ways to present data by creating a data viz rug.
 featured_image: /assets/img/roizman_header.jpg
 ---

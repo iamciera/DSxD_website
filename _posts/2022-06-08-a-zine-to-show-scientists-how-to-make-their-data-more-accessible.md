@@ -1,6 +1,6 @@
 ---
 title: A Zine to Show Scientists How to Make Their Data More Accessible
-date: 2022-06-08 00:00:00
+date: 2022-06-08 00:00:01
 description: Leonore Reiser creates a zine to help communicate best practices of sharing plant DNA data. 
 featured_image: /assets/img/reiser_header.jpg
 ---
