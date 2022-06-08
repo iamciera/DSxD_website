@@ -38,8 +38,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 |------------------------------------------------------------------------------------------------|--------------------|
 | [**A Conversation with Mimi Ọnụọha**](https://datasciencebydesign.org/blog/conversation-with-mimi) Natalie O’Shea                                             |             June 1 |
 | [**The Process of Making “the Count”**](https://datasciencebydesign.org/blog/the-process-of-making-the-count) Deji Dabiri and Bunmi Aworanti                           |             June 1 |
-| **A Zine to Show Scientists How to Make Their Data More Accessible** Leonore Reiser            |             June 8 |
-| **Sweeping Untufted Charts Under the Rug** Violeta Roizman                                     |             June 8 |
+| [**A Zine to Show Scientists How to Make Their Data More Accessible**](https://datasciencebydesign.org/blog/a-zine-to-show-scientists-how-to-make-their-data-more-accessible) Leonore Reiser            |             June 8 |
+| [**Sweeping Untufted Charts Under the Rug**](https://datasciencebydesign.org/blog/sweeping-untufted-charts-under-the-rug) Violeta Roizman                                     |             June 8 |
 | **A Conversation with Danielle Navarro** Sharla Gelfand                                        |            June 15 |
 | **Twelve Quick Tips for Software Design** Greg Wilson                                          |            June 15 |
 | **Writing A “modeler’s MaNifesto” for More Transparent, Ethical Data Science** M.V. Eitzel     |            June 22 |
