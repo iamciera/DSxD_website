@@ -1,6 +1,6 @@
 ---
 title: A Conversation With Danielle Navarro
-date: 2022-06-14 00:00:00
+date: 2022-06-15 00:00:00
 description: A converstaion with data scientist and computational artist Danielle Navarro. They discuss the process of generating including how emotions and patience drive the work. Interviewed by Sharla Gelfand
 featured_image: /assets/img/theme/Grid Graphics- Seed 1038 copy.jpg
 ---

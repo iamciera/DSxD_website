@@ -1,7 +1,7 @@
 ---
 title: Twelve Quick Tips for Software Design
 date: 2022-06-15 00:00:00
-description: Greg Wilson, header illustration by Ashley Caswell.
+description: Greg Wilson shares easily implemental software design tips in this shortened version of his paper by the same name. Header illustration by Ashley Caswell.
 featured_image: /assets/img/theme/wilson_header.jpg
 ---
 
