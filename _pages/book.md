@@ -42,8 +42,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 | [**Sweeping Untufted Charts Under the Rug**](https://datasciencebydesign.org/blog/sweeping-untufted-charts-under-the-rug) Violeta Roizman                                     |             June 8 |
 | [**A Conversation with Danielle Navarro**](https://datasciencebydesign.org/blog/a-conversation-danielle-navarro) Sharla Gelfand                                        |            June 15 |
 | [**Twelve Quick Tips for Software Design**](https://datasciencebydesign.org/blog/twelve-quick-tips-for-software-design) Greg Wilson                                          |            June 15 |
-| **Writing A “modeler’s MaNifesto” for More Transparent, Ethical Data Science** M.V. Eitzel     |            June 22 |
-| **A Conversation with Saskia Freeke** Natalie O’Shea                                           |            June 22 |
+| [**Writing A “modeler’s MaNifesto” for More Transparent, Ethical Data Science**](https://datasciencebydesign.org/blog/writing-a-modelers-manifesto-for-more-transparent-ethical-data-science) M.V. Eitzel     |            June 22 |
+| [**A Conversation with Saskia Freeke**](https://datasciencebydesign.org/blog/a-conversation-with-saskia-freeke) Natalie O’Shea                                           |            June 22 |
 | **Livestreaming My Coding Mistakes to the World** Jesse Mostipak                               |            June 29 |
 | **Distilltools: Creating a Curated, Collaborative Community Package** Ella Kaye                |            June 29 |
 | **Visualizing our Daily Realities** Danne Woo                                                  |             July 6 |
