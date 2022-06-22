@@ -1,9 +1,11 @@
 ---
 title: Writing a “modeler’s Manifesto” for More Transparent, Ethical Data Science
 date: 2022-06-22 00:00:00
-description: M.V. Eitzel, illustration by Noemi De Feo. Based in part on Eitzel 2021<sup>1</sup>
+description: M.V. Eitzel creates a set of concepts to aspire to when creating models and the influences that led them to writing them. Header llustration by Noemi De Feo. 
 featured_image: /assets/img/theme/Eitzel-header - final.png
 ---
+
+*Based in part on Eitzel 2021<sup>1</sup>*
 
 “What am I doing, writing a manifesto?” I thought to myself (or you might be thinking). “Aren’t modelers supposed to come up with answers, and be objective, and sure of themselves? And...aren’t manifestos kind of political?”
 

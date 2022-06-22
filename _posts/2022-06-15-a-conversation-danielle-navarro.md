@@ -6,7 +6,7 @@ featured_image: /assets/img/theme/Grid Graphics- Seed 1038 copy.jpg
 ---
 
 <p align="center">
-  <img height="300" src="../assets/img/faces/danielle.jpg" alt="Black and white illustration of a women with braided hair looking down and smiling" >
+  <img height="300" src="../assets/img/faces/danielle.jpg" alt="Illustrated portrait of Danielle Navarro, depicted with shoulder length, curly hair and a slight smile." >
 </p>
 
 <span style="font-size:120%"><span style="color:darkslateblue;">**How do you start, and finish, a series of pieces?**</span></span>

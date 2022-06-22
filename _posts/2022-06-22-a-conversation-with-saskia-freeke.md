@@ -1,11 +1,15 @@
 ---
 title: A Conversation With Saskia Freeke
 date: 2022-06-22 00:00:00
-description: Interviewed by Natalie O’Shea
-featured_image: /assets/img/faces/saskia.jpg
+description: Artist and designer Sakskia Freeke discuss their process in creating generative art, including creating a daily practice and the importance of community. Interview by Natalie O’Shea.
+featured_image: /assets/img/saskia_header.jpeg
 ---
 
-### You have been engaged in daily art practice for more than six years now. Looking back, how was your style changed and evolved over the years?
+<p align="center">
+  <img height="300" src="../assets/img/faces/saskia.jpg" alt="BBlack and white illustration of a woman with glasses and a ponytail slightly smiling." >
+</p>
+
+<span style="font-size:120%"><span style="color:darkslateblue;">**You have been engaged in daily art practice for more than six years now. Looking back, how was your style changed and evolved over the years?**</span></span>
 
 Over the years my work has gradually become more simplistic, especially the shapes I use to generate compositions. An important part of my ongoing practice is researching and practicing the use of code as a means of creating visual patterns.
 
@@ -29,7 +33,7 @@ In the first years I would try out different styles each day, but over time I al
 </figure>
 </center>
 
-### What advice do you have for others interested in starting a daily art practice?
+<span style="font-size:120%"><span style="color:darkslateblue;">**What advice do you have for others interested in starting a daily art practice?**</span></span>
 
 My daily project started out from a quest to exert myself artistically and proactively show my work output to others. Having the constraints of that daily deadline really pushed me to work towards that goal without the impediment of playing at perfectionism every step of the way.
 
@@ -39,7 +43,7 @@ Another notion I’d like to point out is that you don’t need to understand ev
 
 Don’t aim for creating your masterpiece daily. Play! Explore! Find the beauty in small things! By constraining yourself to a short-term deadline, you might just free yourself from the chains of perfectionism.
 
-### You are also involved in the live coding community, which combines sound and visual components in a live performance. What is that experience like? Do you ever play around with music-making code or do you leave that to your collaborators?
+<span style="font-size:120%"><span style="color:darkslateblue;">**You are also involved in the live coding community, which combines sound and visual components in a live performance. What is that experience like? Do you ever play around with music-making code or do you leave that to your collaborators?**</span></span>
 
 Live coding feels almost similar to the making of a daily artwork, a slight difference being the presence of an audience and someone who’s creating the music. Often I haven’t the faintest clue what music the live coder musician will be creating, but I’ll try to adequately respond to their input, however arbitrary. There are techniques I use that will take impulses of sound and have them adjust specific parameters that I use within the code, having my visuals move to the beats. The sound also triggers my artistic output, forcing me to question aesthetics in realtime: Do the visuals need more colour? Do the movements need to go slower?
 
@@ -63,7 +67,7 @@ The unanticipated input from your collaborator and the in-real-time response fro
 
 Visuals are definitely my way to express, and I leave the music to my collaborator. I still try to experiment and follow workshops around live coding music. Having some under standing allows me to understand the music from my collaborator better. Who knows if I ever will perform live-code music in the future!
 
-### How do you see the code art community evolving moving forward? What direction do you hope it moves in?
+<span style="font-size:120%"><span style="color:darkslateblue;">**How do you see the code art community evolving moving forward? What direction do you hope it moves in?**</span></span>
 
 Over the years I have been involved in local communities such as Creative Coding Amsterdam and Creative Coding Utrecht in the Netherlands. During my times abroad, I often visit other local communities and meetups. Having events, meetups, and get-togethers, small or large, is a great way to be exposed to new insights and share your experiences.
 
