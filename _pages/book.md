@@ -44,8 +44,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 | [**Twelve Quick Tips for Software Design**](https://datasciencebydesign.org/blog/twelve-quick-tips-for-software-design) Greg Wilson                                          |            June 15 |
 | [**Writing A “modeler’s MaNifesto” for More Transparent, Ethical Data Science**](https://datasciencebydesign.org/blog/writing-a-modelers-manifesto-for-more-transparent-ethical-data-science) M.V. Eitzel     |            June 22 |
 | [**A Conversation with Saskia Freeke**](https://datasciencebydesign.org/blog/a-conversation-with-saskia-freeke) Natalie O’Shea                                           |            June 22 |
-| **Livestreaming My Coding Mistakes to the World** Jesse Mostipak                               |            June 29 |
-| **Distilltools: Creating a Curated, Collaborative Community Package** Ella Kaye                |            June 29 |
+| **[Livestreaming My Coding Mistakes to the World](https://datasciencebydesign.org/blog/livestreaming-my-coding-mistakes-to-the-world)** Jesse Mostipak                               |            June 29 |
+| **[Distilltools: Creating a Curated, Collaborative Community Package](https://datasciencebydesign.org/blog/distilltools-creating-a-curated-collaborative-community-package)** Ella Kaye                |            June 29 |
 | **Visualizing our Daily Realities** Danne Woo                                                  |             July 6 |
 | **The Making of the Do No Harm Guide** Alice Feng                                              |             July 6 |
 | **Beyond Binaries** Madeline Arnold                                                            |            July 13 |

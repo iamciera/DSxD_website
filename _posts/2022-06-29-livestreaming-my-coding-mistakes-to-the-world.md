@@ -1,7 +1,7 @@
 ---
 title: Livestreaming My Coding Mistakes to the World
 date: 2022-06-29 00:00:00
-description: Jesse Mostipak discusses how they learned to embrace their fear and how they approache learning programming and machine learning in the public sphere.  Header illustration by Katarzyna Surman.
+description: Jesse Mostipak discusses how they learned to embrace their fear and how they approach learning programming and machine learning in the public sphere.  Header illustration by Katarzyna Surman.
 featured_image: /assets/img/theme/mosipak_header.jpg
 ---
 
