@@ -1,13 +1,15 @@
 ---
 title: "Distilltools: Creating a Curated, Collaborative Community Package"
 date: 2022-06-29 00:00:00
-description: Ella Kaye, Distilltools hex sticker by Freddie Yauner (https://freddieyauner.co.uk).
-featured_image: /assets/img/theme/kaye_header_image.jpg
+description: Simplifying the process of creating a website and creating community. Ella Kaye discusses the motivations and process of creating the distills package.    Image header / distilltools hex sticker by Freddie Yauner.
+featured_image: /assets/img/theme/kaye_header.jpg
 ---
 
 Whether you’re working in data science, design, or at the intersection of the two, whether you’re just starting out in these areas or are an established pro, having a website and blog makes sense. It allows you to present yourself and your work to the world. Blogging gives you a chance to practice your skills, share what you know, and receive feedback from your readers. And, as David Robinson puts it: Things that are still on your computer are approximately useless in comparison to anything out in the world<sup>1</sup>.
 
 There is a wide range of different tools available for building personal websites. For those with some familiarity with R, markdown, and GitHub (or a willingness to learn), to my mind the best option, in terms of balancing flexibility with ease of use, is the R package **distill**<sup>2</sup>.
+
+<img height="300" align="right" hspace="20" src="../assets/img/theme/kaye_header_image.jpg" alt="A hexagon that looks 3D, lines and squares with different shades of teal. The text “distill tools” front and center." >
 
 In April 2021, I rebuilt my personal website [https://ellakaye.rbind.io](https://ellakaye.rbind.io){:target="_blank"}{:rel="noopener noreferrer"} using **distill**. I was so impressed by how quick and easy it was to create a basic site and moreover how enjoyable the process was. Version 1.0 of **distill** was still relatively new (there was an RStudio blogpost<sup>3</sup> introducing it in December 2020) but already a community was forming around users. In particular, John Paul Helveston had started the distillery<sup>4</sup>, a showcase for websites created with **distill** sharing both the sites and the source behind them as well as a collection of blogposts with various tips and tricks for customisation. Some of these tricks were functions that the authors had written for themselves to make it easier to create or style content on their website.
 
@@ -26,6 +28,8 @@ It is **collaborative** because I work with people who contribute ideas and code
 It is **curated** because, despite drawing ideas and code from many contributors, it is still important for ease of use that the functions in the package have a consistent user interface and a consistent approach to creating and styling content, especially where CSS is involved. There is still much to be worked out on that front. The package is very much a work in progress, and I am excited to continue to make that progress alongside a diverse community of contributors.
 
 *Ella Kaye is a graduate research student in statistics at the University of Warwick and an R enthusiast. Her eclectic path has taken her from a BA in mathematics and philosophy (University of Oxford) through an MA in history and philosophy of science and technology (University of Toronto), an MPhil in mathematics education (University of Cambridge), and an MSc in applied statistics (University of Oxford). She has also been a secondary school maths teacher and worked in market research. She loves R and the R community and was the previous co-organiser of the Oxford R User Group. She takes great pleasure in sharing what she knows/is learning about R with others, particularly by speaking at R-Ladies and R User Group meetups and on her blog, [ellakaye.rbind.io](https://ellakaye.rbind.io/){:target="_blank"}{:rel="noopener noreferrer"}.*
+
+Distilltools hex sticker by Freddie Yauner (https://freddieyauner.co.uk).
 
 <sup>1</sup> Advice to aspiring data scientists: start a blog. Variance Explained [http://varianceexplained.org/r/start-blog/](http://varianceexplained.org/r/start-blog/){:target="_blank"}{:rel="noopener noreferrer"}.
 

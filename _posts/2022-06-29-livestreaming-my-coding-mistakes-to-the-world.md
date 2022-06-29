@@ -1,13 +1,16 @@
 ---
 title: Livestreaming My Coding Mistakes to the World
 date: 2022-06-29 00:00:00
-description: Jesse Mostipak, illustration by Katarzyna Surman.
+description: Jesse Mostipak discusses how they learned to embrace their fear and how they approache learning programming and machine learning in the public sphere.  Header illustration by Katarzyna Surman.
 featured_image: /assets/img/theme/mosipak_header.jpg
 ---
 
 I’m 40 now, which means I am almost ready to stop worrying about what other people think of me. Almost being the key word here, because a few months ago the thought of getting on Twitch and livestreaming my coding mistakes to the world filled me with a core-shattering panic. Which may seem odd, because if you’ve stopped by one of my recent streams I’m likely learning something new by aggressively making mistakes in front of hundreds of people, all while having the absolute time of my life.
 
-### So how did I get here, and why I think you should also find some way to make mistakes and learn in public?
+#### So how did I get here, and why I think you should also find some way to make mistakes and learn in public?
+
+<img height="200" align="right" hspace="20" src="../assets/img/sq1.jpg" alt="Inforgraphic of a blue square with talking cartoon bubbles on the inside with three lines emmerging from the square." >
+
 
 In early 2021, I was staring down the realization that the technical career I wanted for myself was slipping away, and it was entirely my fault. I don‘t have a formal education in programming, computer science, or data science, and my career history is filled with management positions. Data-related management positions, yes, but that means my strengths are in strategic planning, OKR development, and KPI tracking at the expense of the technical skills and domain knowledge I’ve been so desperate to develop.
 
@@ -16,6 +19,8 @@ In evaluating how to push into a more technical role, I knew that a public portf
 In my younger days this took the shape of a school assignment and a study group, but I couldn’t quite figure out how to make this happen as an adult with a job until I was asked if I would participate in a livestreamed machine learning competition called SLICED. Knowing that I couldn’t code my way through a machine learning problem if my life depended on it didn’t stop me from enthusiastically accepting the offer. Having procured my machine learning deadline, I set out in pursuit of friends and found myself on Twitch.
 
 I had been quietly livestreaming video games for a couple of weeks before committing to SLICED, and even though I didn’t speak or use a webcam, I found myself choking down an incredible amount of anxiety every time my mouse hovered over the “Go Live!” button. But I kept going through with it both because I enjoyed it and because no one watched my streams. These gaming streams felt like a low-stakes way to test out Twitch while building a habit of streaming without any formal commitments or pressure.
+
+<img height="200" align="left" hspace="20" src="../assets/img/sq4.jpg" alt="illustrated computer window with a network graph in it and a lines emmerging" >
 
 And I didn’t immediately switch to streaming machine learning! Instead I started with a gaming stream but with the notable additions of both a webcam and microphone. Once I was comfortable speaking and showing my face, it was relatively easy to add in a #TidyTuesday stream. While I knew my data wrangling and visualization skills could use some work, I wasn’t too worried about making mistakes because when I first started I wrote most of the code beforehand. This felt like a great way to shield myself and avoid the horror of being vulnerable and admitting that I didn’t know something.
 
