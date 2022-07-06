@@ -46,8 +46,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 | [**A Conversation with Saskia Freeke**](https://datasciencebydesign.org/blog/a-conversation-with-saskia-freeke) Natalie O’Shea                                           |            June 22 |
 | **[Livestreaming My Coding Mistakes to the World](https://datasciencebydesign.org/blog/livestreaming-my-coding-mistakes-to-the-world)** Jesse Mostipak                               |            June 29 |
 | **[Distilltools: Creating a Curated, Collaborative Community Package](https://datasciencebydesign.org/blog/distilltools-creating-a-curated-collaborative-community-package)** Ella Kaye                |            June 29 |
-| **Visualizing our Daily Realities** Danne Woo                                                  |             July 6 |
-| **The Making of the Do No Harm Guide** Alice Feng                                              |             July 6 |
+| [**Visualizing our Daily Realities**](https://datasciencebydesign.org/blog/visualizing-our-daily-realities) Danne Woo                                                  |             July 6 |
+| [**The Making of the Do No Harm Guide**](https://datasciencebydesign.org/blog/the-making-of-the-do-no-harm-guide) Alice Feng                                              |             July 6 |
 | **Beyond Binaries** Madeline Arnold                                                            |            July 13 |
 | **The Future of Data Science Includes Slow Data Science** Tim Schoof                           |            July 13 |
 | **Encoding Fermentation: A Multisensory Approach to Understanding Fermentation Data** Maxene Graze |            July 20 |

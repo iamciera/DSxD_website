@@ -1,7 +1,7 @@
 ---
 title: Visualizing Our Daily Realities
 date: 2022-07-06 00:00:00
-description: Creating dataviz everyday for a year. Danne Woo develops and utilizes a tool, Datavisual (datavisu.al), to help with this momentous endeavour.
+description: Creating dataviz everyday for a year. Danne Woo develops and utilizes a tool, Datavisual (datavisu.al), to help to master their daily practice.
 featured_image: /assets/img/posts/woo_header.jpg
 ---
 
