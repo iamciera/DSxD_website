@@ -1,8 +1,8 @@
 ---
 title: Visualizing Our Daily Realities
 date: 2022-07-06 00:00:00
-description: Danne Woo
-featured_image: /assets/img/sections/ijeamaka_design.png
+description: Creating dataviz everyday for a year. Danne Woo develops and utilizes a tool, Datavisual (datavisu.al), to help with this momentous endeavour.
+featured_image: /assets/img/posts/woo_header.jpg
 ---
 
 In 2017, I undertook a challenging project to research a daily topic, find data around said subject, and visualize the data each day for the entire year. What started as a way for me to become a super user of a tool I created, Datavisual (datavisu.al), quickly became a way for me to better understand the world we were living in and to share those findings on social media platforms like Instagram (instagram.com/datavisualcharts/) and Twitter (twitter.com/datavisualinfo) through well-designed and straightforward data visualizations.

@@ -1,7 +1,7 @@
 ---
 title: The Making of the Do No Harm Guide
 date: 2022-07-06 00:00:00
-description: Alice Feng, illustration by Ashley Caswell.
+description: Alice Feng writes about the making of the "Do No Harm Guide" - a resource for presenting data with diversity, equity, and inclusion in mind.  Header illustration by Ashley Caswell.
 featured_image: /assets/img/theme/feng_header.jpg
 ---
 
