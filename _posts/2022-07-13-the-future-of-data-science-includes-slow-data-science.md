@@ -1,8 +1,8 @@
 ---
 title: The Future of Data Science Includes Slow Data Science
 date: 2022-07-13 00:00:00
-description: Tim Schoof
-featured_image: /assets/img/sections/ijeamaka_design.png
+description: What happens when we take the time to contemplate our data? Tim Schoof explores this, and more, through the creation of a knitting pattern.
+featured_image: /assets/img/theme/schoof_header.jpg
 ---
 
 As data consumers, we often don’t spend a lot of time digesting a piece of data. We’ll see a cool graph in our Twitter feed, like it, and continue scrolling. Or we might read a journal article, inspect the figure for a few minutes, pass a quick judgment on the authors, and skip to the conclusions. Unless we work closely with the data day in, day out, it is not very often that we really sit with the data and let its stories, context, and wider implications really sink in.
@@ -20,7 +20,7 @@ The pattern assumes an average knitting pace of 20 stitches per minute<sup>7</su
 <center>
 <figure>
 	<img src="../assets/img/theme/schoof_figure_1.jpg" alt="A scarf with bobbles, knitted with blue and yellow yarn, draped on a yellow cushion.">
-	<figcaption>Scarf knit by Tim Schoof following the pattern on page 67.</figcaption>
+	<figcaption>Scarf knit by Tim Schoof following the pattern below.</figcaption>
 </figure>
 </center>
 
