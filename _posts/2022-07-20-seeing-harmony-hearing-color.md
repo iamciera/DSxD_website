@@ -2,7 +2,7 @@
 title: Seeing Harmony, Hearing Color
 date: 2022-07-20 00:00:00
 description: Sheet music is already a data visualization of sorts but how can additional information be layered onto a score? Justin Lind explores the use of color and symbols to unlock patterns in how we perceive music.
-featured_image: /assets/img/sections/starburst-01.jpg
+featured_image: /assets/img/posts/lind_header.png
 ---
 
 This project began with a desire to visualize musical harmony by using additional layers on top of sheet music. Similar to how one can hear the emotional tone of a piece of music or the finality of a strong cadence at the end of a symphony, I wanted to visually see these types of harmonic effects in a musical score. I knew that whatever visual strategies I ended up using, my goal was to mimic how hearing music reveals the most salient aspects of musical harmony, in contrast with how merely seeing a musical score rarely produces that same effect. I also wanted to find methods that could work across different genres of music and media. Could the project’s core, aligning harmonic concepts with specific visual attributes, remain general enough to work across various media and situations? I wanted to build things at a “foundational enough” level so that others could reuse elements of the design in other situations. Looking at using color to define the 12 notes of the scale, for example – could that help someone learn new guitar chords or help to improve their sight-reading skills? Could it help you find a favorite piece of music when paging through a music anthology? Could new visualizations improve accessibility or help someone learn an otherwise very abstract music theory concept?
