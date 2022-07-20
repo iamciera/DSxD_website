@@ -48,10 +48,10 @@ To give each piece time to shine, we will release two chapters a week on our web
 | **[Distilltools: Creating a Curated, Collaborative Community Package](https://datasciencebydesign.org/blog/distilltools-creating-a-curated-collaborative-community-package)** Ella Kaye                |            June 29 |
 | [**Visualizing our Daily Realities**](https://datasciencebydesign.org/blog/visualizing-our-daily-realities) Danne Woo                                                  |             July 6 |
 | [**The Making of the Do No Harm Guide**](https://datasciencebydesign.org/blog/the-making-of-the-do-no-harm-guide) Alice Feng                                              |             July 6 |
-| **Beyond Binaries** Madeline Arnold                                                            |            July 13 |
-| **The Future of Data Science Includes Slow Data Science** Tim Schoof                           |            July 13 |
-| **Encoding Fermentation: A Multisensory Approach to Understanding Fermentation Data** Maxene Graze |            July 20 |
-| **Seeing Harmony, Hearing Color** Justin Lind                                                  |            July 20 |
+| [**Beyond Binaries**](https://datasciencebydesign.org/blog/beyond-binaries) Madeline Arnold                                                            |            July 13 |
+| [**The Future of Data Science Includes Slow Data Science**](https://datasciencebydesign.org/blog/the-future-of-data-science-includes-slow-data-science) Tim Schoof                           |            July 13 |
+| [**Encoding Fermentation: A Multisensory Approach to Understanding Fermentation Data**](https://datasciencebydesign.org/blog/encoding-fermentation-a-multisensory-approach-to-understanding-fermentation-data) Maxene Graze |            July 20 |
+| [**Seeing Harmony, Hearing Color**](https://datasciencebydesign.org/blog/seeing-harmony-hearing-color) Justin Lind                                                  |            July 20 |
 | **A Conversation with Nadieh Bremer** Sharla Gelfand                                           |            July 27 |
 | **A Personal Response to “datafication”** Alexandra Khoo                                       |            July 27 |
 | **When We Miss Missingness** Cat Hicks                                                         |            July 27 |
