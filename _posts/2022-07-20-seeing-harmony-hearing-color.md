@@ -1,7 +1,7 @@
 ---
 title: Seeing Harmony, Hearing Color
 date: 2022-07-20 00:00:00
-description: Justin Lind
+description: Sheet music is already a data visualization of sorts but how can additional information be layered onto a score? Justin Lind explores the use of color and symbols to unlock patterns in how we perceive music.
 featured_image: /assets/img/sections/starburst-01.jpg
 ---
 

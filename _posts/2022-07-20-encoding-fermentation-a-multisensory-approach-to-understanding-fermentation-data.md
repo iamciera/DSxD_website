@@ -1,7 +1,7 @@
 ---
 title: "Encoding Fermentation: a Multisensory Approach to Understanding Fermentation Data"
 date: 2022-07-20 00:00:00
-description: Maxene Graze
+description: How does data taste? Maxene Graze explores the process of fermination in the context of data visualization.
 featured_image: /assets/img/sections/pattern_19.jpg
 ---
 
