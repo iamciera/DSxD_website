@@ -54,7 +54,7 @@ This is one of those projects where it’s meant to be art, but you can still se
 
 <center>
 <figure>
-	<img src="../assets/img/theme/bremer_2_Coiling_Curves_2.jpg" alt="Circular shape made up of smaller swirling shapes filled in with rainbow gradients.">
+	<img src="../assets/img/theme/bremer_2_Coiling_Curves_2.png" alt="Circular shape made up of smaller swirling shapes filled in with rainbow gradients.">
 	<figcaption>Figure 2: Coiling Curves</figcaption>
 </figure>
 </center>
