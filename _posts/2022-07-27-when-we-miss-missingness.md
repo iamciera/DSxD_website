@@ -1,7 +1,7 @@
 ---
 title: When We Miss Missingness
 date: 2022-07-27 00:00:00
-description: Cat Hicks, illustration by Katarzyna Surman.
+description: Cat Hicks writes about the invisible context of our data origins. Header llustration by Katarzyna Surman.
 featured_image: /assets/img/theme/hicks_header.jpeg
 ---
 

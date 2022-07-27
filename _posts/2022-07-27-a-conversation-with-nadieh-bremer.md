@@ -2,8 +2,14 @@
 title: A Conversation With Nadieh Bremer
 date: 2022-07-27 00:00:00
 description: Nadieh Bremer discusses their process in creating art and data visualizations with Sharla Gelfand.
-featured_image: /assets/img/faces/nadieh.jpg
+featured_image: /assets/img/theme/bremer_2_Coiling_Curves_2.jpg
 ---
+
+<p align="center">
+  <img height="300" src="../assets/img/faces/nadieh.jpg" alt="Black and white illustration of a person with an oval face, smiling, long hair swept to one side and past their shoulders. They are wearing dangling earrings, and have an opened, patterned sweater over a v neck shirt. " >
+</p>
+
+<span style="font-size:85%">*[Nadieh Bremer](https://www.visualcinnamon.com/) is a Data Visualization Artist who once graduated as an Astronomer and started working as a data scientist before finding her true passion in the visualization of data, which combined her creative side with her love for math and data. As 2017’s “Best Individual” in the Information is Beautiful Awards, she focuses on visuals that are uniquely crafted for each specific dataset, often using large and complex datasets while employing vibrant color palettes. She’s made visualizations and art for companies such as Google News Lab, Sony Music, The New York Times, and UNESCO and has recently ventured into creating NFT collections and crypto art.*</span>
 
 ### Can you start by describing a bit about the art you make?
 
@@ -64,4 +70,3 @@ More recently I’ve been doing generative math based pieces that I like a lot. 
 
 *This interview has been shorted and edited for clarity and readability.*
 
-*Nadieh Bremer is a Data Visualization Artist who once graduated as an Astronomer and started working as a data scientist before finding her true passion in the visualization of data, which combined her creative side with her love for math and data. As 2017’s “Best Individual” in the Information is Beautiful Awards, she focuses on visuals that are uniquely crafted for each specific dataset, often using large and complex datasets while employing vibrant color palettes. She’s made visualizations and art for companies such as Google News Lab, Sony Music, The New York Times, and UNESCO and has recently ventured into creating NFT collections and crypto art.*

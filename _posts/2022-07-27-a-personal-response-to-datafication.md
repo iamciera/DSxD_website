@@ -1,9 +1,15 @@
 ---
 title: A Personal Response to “Datafication”
 date: 2022-07-27 00:00:00
-description: Alexandra Khoo
+description: Alexandra Khoo's essay explores how we can humanize data work
 featured_image: /assets/img/theme/koo_header.jpg
 ---
+
+<center>
+<figure>
+	<img src="../assets/img/theme/koo_header.jpg" alt="A two-panel comic where the first panel shows a girl sitting at the beach next and the second panel shows a close-up of the girl looking through a magnifying glass seeing small human characters in the water.">
+</figure>
+</center>
 
 By the time you finish reading this sentence, allegedly 17 MB of data has been generated for every person on earth<sup>1</sup>. But what does that really mean?
 
