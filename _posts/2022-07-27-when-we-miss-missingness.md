@@ -2,8 +2,14 @@
 title: When We Miss Missingness
 date: 2022-07-27 00:00:00
 description: Cat Hicks writes about the invisible context of our data origins. Header llustration by Katarzyna Surman.
-featured_image: /assets/img/theme/hicks_header.jpeg
+featured_image: /assets/img/theme/hicks_header.png
 ---
+
+<center>
+<figure>
+	<img src="../assets/img/theme/hicks_header.png" alt="A spreadsheet of student name, gender, class level, home state, major, and extracurricular activities. Certain cells are zoomed in on to reveal a whole cityscape hiding behind each data point.">
+</figure>
+</center>
 
 When you’re first learning data science, there’s often a moment when someone pulls the curtain back. Come with me, they say, and learn the truth about what we all do here. Usually, this is your introduction to the nitty-gritty world of messy data and data cleaning. Sometimes this moment will come in the form of a lecture titled “Data Cleaning” or a textbook chapter named “Data Munging.” Sometimes it will be a blog post that introduces you to the wild world of “Data Wrangling.” But all of these terms describe the same idea: You will have to confront errors and gaps in your datasets, and many models can’t be built until you transform datasets into something more uniform. Learning to clean and process this “dirty data”—rendering a dataset into a standardized version of itself, and likely excluding data points that won’t align with our analytics—is a key part of a data scientist’s workflow.
 
