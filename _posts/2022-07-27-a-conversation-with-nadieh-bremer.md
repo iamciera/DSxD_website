@@ -2,7 +2,7 @@
 title: A Conversation With Nadieh Bremer
 date: 2022-07-27 00:00:00
 description: Nadieh Bremer discusses their process in creating art and data visualizations with Sharla Gelfand.
-featured_image: /assets/img/theme/bremer_2_Coiling_Curves_2.jpg
+featured_image: /assets/img/theme/bremer_header.png 
 ---
 
 <p align="center">
