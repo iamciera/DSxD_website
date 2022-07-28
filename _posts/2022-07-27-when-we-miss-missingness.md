@@ -5,11 +5,6 @@ description: Cat Hicks writes about the invisible context of our data origins. H
 featured_image: /assets/img/theme/hicks_header.png
 ---
 
-<center>
-<figure>
-	<img src="../assets/img/theme/hicks_header.png" alt="A spreadsheet of student name, gender, class level, home state, major, and extracurricular activities. Certain cells are zoomed in on to reveal a whole cityscape hiding behind each data point.">
-</figure>
-</center>
 
 When you’re first learning data science, there’s often a moment when someone pulls the curtain back. Come with me, they say, and learn the truth about what we all do here. Usually, this is your introduction to the nitty-gritty world of messy data and data cleaning. Sometimes this moment will come in the form of a lecture titled “Data Cleaning” or a textbook chapter named “Data Munging.” Sometimes it will be a blog post that introduces you to the wild world of “Data Wrangling.” But all of these terms describe the same idea: You will have to confront errors and gaps in your datasets, and many models can’t be built until you transform datasets into something more uniform. Learning to clean and process this “dirty data”—rendering a dataset into a standardized version of itself, and likely excluding data points that won’t align with our analytics—is a key part of a data scientist’s workflow.
 
@@ -20,6 +15,12 @@ Sometimes I like to call this “when we miss missingness,” a quip to remind m
 Research design asks questions like: Why were these variables operationalized this way? Are there hidden confounders in this datasets? Are these variables truly independent, or do they dynamically change each other? Does the data at hand accurately represent the question I am trying to ask, and if not, should I modify my question? Are there important threats to the validity of my design, the inferences that I can make about what causes what? I believe that most of us working in data science want to ask these questions, but we often aren’t given enough space, time, and tools to make research design a formal part of our workflow.
 
 Once, I was working on a data science project for an educational game used by students. I noticed that in the datasets we had gathered, there was an area of the game where the data engineering system hadn’t measured students’ activity. This was a “bonus” recreation area of the game, a break from the rest of the exercises that we were measuring. I wondered why this recreation activity didn’t show up in our measures. What hypothesis might the missing measures introduce? I wondered if students who took more frequent breaks in this “bonus” area could end up feeling more motivated and engage more deeply in the educational aspect of the game. I took this question to my collaborators, and we created a new dataset that included the “bonus” area. Sure enough, a new model yielded a finding that no one had expected: Students did benefit from their breaks, and this helped us make product recommendations, which in turn improved the impact that the exercises were having on students’ learning.
+
+<center>
+<figure>
+	<img src="../assets/img/theme/hicks_header.png" alt="A spreadsheet of student name, gender, class level, home state, major, and extracurricular activities. Certain cells are zoomed in on to reveal a whole cityscape hiding behind each data point.">
+</figure>
+</center>
 
 Research design can give us the chance to not just filter away missingness but to learn from it. Real datasets as they exist teach us about what was selected and about who gets a voice. We might find that we thought we were measuring one type of variable but we were actually measuring another. We might realize several of our measurements are different versions of the same underlying pattern. Often, missingness in our data is systematic—certain groups of people or certain types of behaviors aren’t represented. Research design lets us ask why.
 
