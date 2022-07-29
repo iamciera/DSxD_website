@@ -7,7 +7,7 @@ featured_image: /assets/img/grant_header.png
 
 <img src="../assets/img/book_cover.png" alt="Introducing Grants Science Fiction Poster.  Planets, data visualizations, stars, and rocket man above a futuristic city." align="right" height="500">
 
-## <span style="color:firebrick">**DSxD's Future of Data Science Anthology**</span>
+## <span style="color:MidnightBlue">**DSxD's Future of Data Science Book**</span>
 
 <p align="center">
 <div class="buttons">
@@ -30,7 +30,7 @@ We may not know what the future holds but we do know that the future of data sci
 <img src="../assets/img/book3.jpg" alt="Photograph of an open book with illustration and text in a garden with yellow flowers" height="200">
 </p>
 
-## <span style="color:firebrick">Book Contents</span>
+## <span style="color:MidnightBlue">Book Contents</span>
 
 To give each piece time to shine, we will release two chapters a week on our website. By August, the whole Anthology will be freely available online.
 
@@ -52,9 +52,9 @@ To give each piece time to shine, we will release two chapters a week on our web
 | [**The Future of Data Science Includes Slow Data Science**](https://datasciencebydesign.org/blog/the-future-of-data-science-includes-slow-data-science) Tim Schoof                           |            July 13 |
 | [**Encoding Fermentation: A Multisensory Approach to Understanding Fermentation Data**](https://datasciencebydesign.org/blog/encoding-fermentation-a-multisensory-approach-to-understanding-fermentation-data) Maxene Graze |            July 20 |
 | [**Seeing Harmony, Hearing Color**](https://datasciencebydesign.org/blog/seeing-harmony-hearing-color) Justin Lind                                                  |            July 20 |
-| **A Conversation with Nadieh Bremer** Sharla Gelfand                                           |            July 27 |
-| **A Personal Response to “datafication”** Alexandra Khoo                                       |            July 27 |
-| **When We Miss Missingness** Cat Hicks                                                         |            July 27 |
+| [**A Conversation with Nadieh Bremer**](https://datasciencebydesign.org/blog/a-conversation-with-nadieh-bremer) Sharla Gelfand                                           |            July 27 |
+| [**A Personal Response to “datafication”**](https://datasciencebydesign.org/blog/a-personal-response-to-datafication) Alexandra Khoo                                       |            July 27 |
+| [**When We Miss Missingness**](https://datasciencebydesign.org/blog/when-we-miss-missingness) Cat Hicks                                                         |            July 27 |
 
 
 <!-- ## Contributors
