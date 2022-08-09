@@ -11,8 +11,9 @@ We are a grant funded project aimed at celebrating the fundamental creativity of
 
 ### People
 
-**Leadership Team**: Ciera Martinez ([@cierareports](https://twitter.com/CieraReports)), Sara Stoudt ([@sastoudt](https://twitter.com/sastoudt)), Valeri Vasquez ([@valeri_vasquez](https://twitter.com/valeri_vasquez)), Ijeamaka Anyene ([@ijeamaka_a](https://twitter.com/ijeamaka_a)), Sharla Gelfand ([@sharlagelfand](https://twitter.com/sharlagelfand)), Allison Horst ([@allison_horst](https://twitter.com/allison_horst)), and 
-Natalie O'Shea ([@_natalie_oshea](https://twitter.com/_natalie_oshea)). Previous members: Rebecca Barter ([@rlbarter](https://twitter.com/rlbarter))
+**Leadership Team**: Ciera Martinez ([@cierareports](https://twitter.com/CieraReports)), Sara Stoudt ([@sastoudt](https://twitter.com/sastoudt)), Valeri Vasquez ([@valeri_vasquez](https://twitter.com/valeri_vasquez)), Tim Schoof, and Natalie O'Shea ([@_natalie_oshea](https://twitter.com/_natalie_oshea)). 
+
+Previous members: Rebecca Barter ([@rlbarter](https://twitter.com/rlbarter)), Allison Horst ([@allison_horst](https://twitter.com/allison_horst)), Ijeamaka Anyene ([@ijeamaka_a](https://twitter.com/ijeamaka_a)), and Sharla Gelfand ([@sharlagelfand](https://twitter.com/sharlagelfand)).
 
 
 There will be oppurtunities to help organize different aspects of this project in the near future. 
