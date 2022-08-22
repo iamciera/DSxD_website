@@ -10,11 +10,11 @@ featured_image: /assets/img/grant_header.png
 ## <span style="color:MidnightBlue">**DSxD's Future of Data Science Book**</span>
 
 <p align="center">
-<div class="buttons">
+  <div class="buttons">
     <a href="http://tinyurl.com/FutureDS" class="btn btn-primary">
       Buy Book Here
     </a>
-</div>
+  </div>
 </p>
 <br>
 
