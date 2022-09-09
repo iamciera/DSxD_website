@@ -39,7 +39,7 @@ menu_settings:
       url: /blog
     - title: 'Books'
       submenu_items:
-      - title: Next Issue - Our Enviroment
+      - title: Next Issue - Our Environment
         url: /book-2
         icon: ni-books text-primary     
       - title: Vol. 1 Future of Data Science

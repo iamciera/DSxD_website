@@ -24,7 +24,7 @@ featured_image: /assets/img/lines/DSxD_lines-05.png
 
 ### About
 
-This half day event will bring together people who want to create, connect, and inspire. DSxD is gearing up for a second book, an anthology themed “Our Environment” where we ask: What worlds do we occupy, and how does data shape this landscape? At this virtual event we will get creative, hear from makers on the process of their work, connect through an activity on world building, and discuss how to work together in the DSxD community.  
+This half day event will bring together people who want to create, connect, and inspire. DSxD is gearing up for a second book, an [anthology themed “Our Environment”](https://datasciencebydesign.org/book-2) where we ask: What worlds do we occupy, and how does data shape this landscape? At this virtual event we will get creative, hear from makers on the process of their work, connect through an activity on world building, and discuss how to work together in the DSxD community.  
 
 Let’s work together to design and build the world we want!
 
