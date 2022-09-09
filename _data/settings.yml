@@ -37,8 +37,14 @@ menu_settings:
       url: /events       
     - title: 'Blog'
       url: /blog
-    - title: 'Anthology'
-      url: /book
+    - title: 'Books'
+      submenu_items:
+      - title: Next Issue - Our Enviroment
+        url: /book-2
+        icon: ni-books text-primary     
+      - title: Vol. 1 Future of Data Science
+        url: /book
+        icon: ni-books text-primary
     - title: 'Code of Conduct'
       url: /coc
     - title: 'About'

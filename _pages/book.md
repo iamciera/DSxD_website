@@ -1,5 +1,5 @@
 ---
-title: The Future of Data Science Anthology
+title: Vol. 1 The Future of Data Science 
 subtitle: A collection of work by data designers, scientists, and artists
 description: 
 featured_image: /assets/img/grant_header.png
