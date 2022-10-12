@@ -6,7 +6,7 @@ featured_image: /assets/img/book2_header.png
 ---
 
 <p align="center">
-<img src="../assets/img/galaxy_window.png" alt="" height="200">
+<img src="../assets/img/galaxy_window.png" alt="Pop-up windeow of A women looks out a window to the stars" height="200">
 </p>
 
 
@@ -22,21 +22,21 @@ Volume 2 of our anthology series is themed "Our Environment".  We all exist with
 
 We want to highlight the many different voices in data - data workers, scientists, designers, and artists - to amplify how you are thinking about data and the world around us.  
 
-<img src="../assets/img/desert_window.png" alt="" align = "right" height="385">
+<img src="../assets/img/desert_window.png" alt="Pop-up window of a desert with data vizulaiztion elements. " align = "right" height="385">
 
 <H2>Submit</H2>
 
 Just as in our [previous book](https://datasciencebydesign.org/book), we want to emphasize process, inclusion, community, and creative approaches to working with data. We hope the readers of our anthology will find something that resonates with them and helps them find their place in data science. 
 
 You can 
--  **Submit a piece directly** - all submissions are due November 21, please see below for what we are looking for in our final pieces. Use [this form](https://forms.gle/38SF2xPbws2gZqcV6) to submit your full piece.  
+-  **Submit a piece directly** - all submissions are due December 1, please see below for what we are looking for in our final pieces. Use [this form](https://forms.gle/38SF2xPbws2gZqcV6) to submit your full piece.  
 -  **Need Help?**
 	-  **Pitch us!**:Do you have an idea, but not sure it fits?  Do you want help refining your idea for the book? Follow [this form](https://forms.gle/y3Xdb2GTPUxYazcSA) and we will try to get back to you within two weeks with an email with feedback. The last date to submit pitch is October 14, 2022. 
 	-  **Mini Grants**: Need extra funding to execute your idea? Apply for a mini grant $250 - $400 by pitching us an idea and specifying your interest in a mini grant.  See more details and apply using the pitch form [here](https://forms.gle/y3Xdb2GTPUxYazcSA).
 
 <H2>Submission Requirements and Ideas</H2>
 
-We are open to whatever is important to you! We want this book to be a chance to share your data work and ideas that may not fit into traditional venues. The design of the book will be very similar to the first book, with each piece being about 3 pages, for example, around ~1000 words to 2000 words.  The size will be 7.44 x 9.68 in (189 x 246 mm) and there will be side margins to put text or images. Think about how you want your work to be presented, there will be room for these thoughts when you submit. 
+We are open to whatever is important to you! We want this book to be a chance to share your data work and ideas that may not fit into traditional venues. The design of the book will be very similar to the first book, with each piece being about 3 pages, for example, around ~1000 words to 2000 words.  The size will be 7.44 x 9.68 in (189 x 246 mm) (<a href="/assets/pdfs/DSxD-interior-book-template.pdf" download>download layout here</a>) and there will be side margins to put text or images. Think about how you want your work to be presented, there will be room for these thoughts when you submit. 
 
 Here are some ideas that worked well in our last book. 
 
@@ -53,7 +53,7 @@ Here are some ideas that worked well in our last book.
 **Zine**: We love zines! Please make a zine! Its best to work within the page dimensions (7.44 x 9.68 in / 189 x 246 mm) of the work to ensure your work is communicated best. You can even use our page templates (download here). Whether submitting to this book or not - please, everyone, make more zines! 
 
 <p align="center">
-<img src="../assets/img/social_window.png" alt="" height="200">
+<img src="../assets/img/social_window.png" alt="A Pop-up window showing two women sharing data and hearts" height="200">
 </p>
 
 <H2>FAQ</H2>
