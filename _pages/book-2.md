@@ -10,10 +10,6 @@ featured_image: /assets/img/book2_header.png
 </p>
 
 
-<center><H4>Important Dates </H4></center>
-<center><b><a href = "https://forms.gle/y3Xdb2GTPUxYazcSA">Pitch Ideas & Mini Grants</a></b>: by October 14, 2022</center>
-<center><b><a href = "https://forms.gle/38SF2xPbws2gZqcV6">Submit full submission</a></b>: by December 1, 2022</center>
-
 
 <H2>Upcoming Book</H2>
 **What worlds do we occupy? How does data affect these worlds?** 
