@@ -17,7 +17,7 @@ margin: 30px 30px;
 </style>
 
 <div id="margin">
-<img src="../assets/img/vol2_bookcover.png" alt="Book Cover with illustration of rich tapestry of palnts and animals. Fish, Lemur, colorful birds, are spread througout.  Boarding the image is an x and y axis line as often seen in a graphs, with the body of a snake through the center reminiscent of a line in a line graph. Interspersed with the animals and plants are other other symbols commonly used in data visualizations and a women off center typing.  " align="right" height="500">
+<img src="../assets/img/vol2_bookcover.png" alt="Book Cover with illustration of rich tapestry of plants and animals. Fish, Lemur, colorful birds are all intertwined.  Bordering the image is an x and y axis as often seen in a graphs, with the body of a snake through the center reminiscent of a line in a line graph. Interspersed within the animals and plants are other other symbols commonly used in data visualizations and a women off center typing.  " align="right" height="500">
 </div>
 
 
@@ -58,7 +58,7 @@ To give each piece time to shine, we will release two chapters a week on our web
 |---------------------------------------------------------------------------------------------------------------------------------|------------------|---|
 | **A Timely Opportunity: Advancing the Role of Climate and Environmental Data in Collaborative Governance** Shannon Dosemagen        | June 7           |   |
 | **Distilling Topographies** Ijeamaka Anyene Fumagalli                                                                               | June 7           |   |
-| **What Worlds Do We Occupy and How Does Data Affect These Worlds?** Melissa Kagan                                                   | June 14          |   |
+| **What Worlds Do We Occupy and How Does Data Affect These Worlds?** Melissa Kagen                                                   | June 14          |   |
 | **Lessons on Data, Environment, and Life Contained in Reusables** Alyssa Melody Frias Paglumotan                                    | June 14          |   |
 | **Fire Zine: Ecosystems and Human Scales** Cody Markelz and Jackie Dean                                                             | June 21          |   |
 | **A Conversation with Ellie Balk** Interviewed by Sujata Bhattacharyya                                                            | June 21          |   |
