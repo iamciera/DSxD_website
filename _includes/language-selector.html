@@ -5,7 +5,9 @@
   where: "uid", page.uid | sort: "locale" %} {% for item in postsOrPages %} {%
   unless item.url contains '/page/' %}
 
-  <a href="{{ item.url }}" class="{{ item.locale }}"> {{ item.locale }} </a>
+  <a href="{{ item.url }}" class="{{ item.locale }}"
+    >{{ site.data.locales[item.locale].name }}
+  </a>
   {% endunless %} {% endfor %}
 </div>
 {% endif %}

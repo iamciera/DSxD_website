@@ -3,6 +3,7 @@ title: "A Timely Opportunity: Advancing the Role of Climate and Environmental Da
 date: 2023-06-07 00:00:00
 description: Shannon Dosemagen writes about climate and environmental data.
 featured_image: /assets/img/theme/dosemagen_header.png
+locale: sp
 ---
 
 We’re in a particular moment for environmental and climate data—it’s quite present in government agendas, civil society strategies, and even the public imagination of science and data as key components in our drive to tackle climate change. For instance, in the US, millions of dollars are being pumped into air monitoring through designations in the American Rescue Plan1 , resources are going toward opening up data related to climate; and more than ever, we’re seeing a focus on the role of communities in working with data to address environmental injustices and further prepare for adapting to climate change. But at times of relevant abundance (as we’ve seen in other sectors) where rapidity can outpace care, there is a heightened need to focus on the underpinnings of why and how we are approaching the strategies employed.
