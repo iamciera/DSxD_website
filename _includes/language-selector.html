@@ -1,0 +1,11 @@
+{% if page.uid %}
+<!-- #1 -->
+<div class="language-selector">
+  {% assign postsOrPages = site.posts | concat: site.pages | concat: site.sp |
+  where: "uid", page.uid | sort: "locale" %} {% for item in postsOrPages %} {%
+  unless item.url contains '/page/' %}
+
+  <a href="{{ item.url }}" class="{{ item.locale }}"> {{ item.locale }} </a>
+  {% endunless %} {% endfor %}
+</div>
+{% endif %}

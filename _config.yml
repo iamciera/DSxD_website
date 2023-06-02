@@ -13,25 +13,30 @@ collections:
     output: true
     permalink: /blog/:slug
     type: "post"
+  sp:
+    output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
-  -
-    scope:
-      path: ""
+  - scope:
+      path: "_posts/**"
       type: "posts"
     values:
-      layout: "post" 
+      layout: "post"
+      locale: en
+  - scope: #2
+      path: _posts/sp/**
+      type: posts
+    values:
+      locale: sp
 
 sass:
   sass_dir: assets/styles
@@ -46,11 +51,10 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 exclude:
-- .ruby-gemset
-- .ruby-version
-- Gemfile
-- Gemfile.lock
-- Makefile
-- README.md
-- vendor/
-  
+  - .ruby-gemset
+  - .ruby-version
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - vendor/

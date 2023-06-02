@@ -1,9 +1,13 @@
 ---
 title: Distilling Topographies
-date: 2023-06-07 00:00:00
+date: 2023-06-01 00:00:00
 description: Ijeamaka Anyene Fumagalli's essay about Distilling Topographies
 featured_image: /assets/img/theme/Figure_1_Anyene.jpg
+uid: distilling-topographies
+locale: en
 ---
+
+{% include language-selector.html %}
 
 _Distilling Topographies_ is an exploration of technology and craftwork. This piece was inspired by mountainous landscapes and soil profiles and is composed of two parts. The first is a map—or a crosswalk, if you will—that reveals the inner workings of the generative art system. The system in this piece creates a data set that includes the placement, angles, and colors used. The second is the final piece: an interpretation of the map into a hand-stitched paper embroidery artwork.
 
