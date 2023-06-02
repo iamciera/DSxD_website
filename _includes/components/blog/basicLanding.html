@@ -5,7 +5,8 @@
     {% endif %}
     <div class="row">
       <div class="col-lg-10 mx-auto">
-        {% for post in site.posts limit:3 %} {% if post.locale == "en" %}
+        {% assign posts = site.posts | where: "locale", page.locale %} {% for
+        post in posts limit:3 %}
         <div class="card card-blog card-plain blog-horizontal mb-5">
           <div class="row">
             <div class="col-lg-4 col-md-4">
@@ -47,7 +48,7 @@
             </div>
           </div>
         </div>
-        {% endif %} {% endfor %} {% if psize > 6 %}
+        {% endfor %} {% if psize > 6 %}
         <div class="container mb-2 mt-2">
           <div class="row">
             <section class="pagination mr-0 ml-auto mt-2 mb-3">
