@@ -1,6 +1,6 @@
 ---
 title: Distilling Topographies
-date: 2023-06-01 00:00:00
+date: 2023-06-06 00:00:00
 description: Ijeamaka Anyene Fumagalli's essay about Distilling Topographies
 featured_image: /assets/img/theme/Figure_1_Anyene.jpg
 uid: distilling-topographies

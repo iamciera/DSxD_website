@@ -1,6 +1,6 @@
 ---
 title: Destilando Topografías
-date: 2023-06-07 00:00:00
+date: 2023-06-06 00:00:00
 description: Destilando Topografías
 featured_image: /assets/img/theme/Figure_1_Anyene.jpg
 uid: distilling-topographies
