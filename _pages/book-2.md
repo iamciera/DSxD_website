@@ -1,6 +1,6 @@
 ---
 title: Vol. 2 Our Environment
-subtitle: Release Date - June 7, 2023
+subtitle: On Sale Now!
 description: 
 featured_image: /assets/img/book2_header.png
 ---
@@ -23,18 +23,17 @@ margin: 30px 30px;
 
 ## <span style="color:MidnightBlue">**DSxD Anthology Vol. 2: Our Environment**</span>
 #### A collection of work by data designers, artists, and scientists
-##### Books will be available to order from this page **June 7, 2023**.
 
-<!-- 
+
 <p align="center">
   <div class="buttons">
-    <a href="http://tinyurl.com/FutureDS" class="btn btn-primary">
+    <a href="https://www.lulu.com/shop/kelsey-campbell-and-cathryn-ploehn-and-nancy-smith-and-julia-evans/our-environment/paperback/product-z6dgkz.html?page=1&pageSize=4" class="btn btn-primary">
       Buy Book Here
     </a>
   </div>
 </p>
 <br>
-  -->
+
 
 
 We loved showcasing the work created by the DSxD collective in our first anthology, The Future of Data Science, so much that we decided to do it again, this time with a theme of “Our Environment”. We picked this theme to explore a variety of worlds and to consider how data shapes those worlds.
