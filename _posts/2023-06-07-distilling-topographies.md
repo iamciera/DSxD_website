@@ -1,7 +1,7 @@
 ---
 title: Distilling Topographies
 date: 2023-06-06 00:00:00
-description: Ijeamaka Anyene Fumagalli's essay about Distilling Topographies
+description: Artist Ijeamaka Anyene Fumagalli explores temporary in generative art through code and embroidery
 featured_image: /assets/img/theme/Figure_1_Anyene.jpg
 uid: distilling-topographies
 locale: en

@@ -1,7 +1,7 @@
 ---
 title: "A Timely Opportunity: Advancing the Role of Climate and Environmental Data in Collaborative Governance"
 date: 2023-06-06 00:00:00
-description: Shannon Dosemagen writes about climate and environmental data.
+description: Shannon Dosemagen writes what open environmental data means in the context of accessiblity
 featured_image: /assets/img/theme/dosemagen_header.png
 locale: en
 uid: timely-opportunity

@@ -55,8 +55,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 
 |                                                                                                                                 |   Online Release |   |
 |---------------------------------------------------------------------------------------------------------------------------------|------------------|---|
-| **A Timely Opportunity: Advancing the Role of Climate and Environmental Data in Collaborative Governance** Shannon Dosemagen        | June 7           |   |
-| **Distilling Topographies** Ijeamaka Anyene Fumagalli                                                                               | June 7           |   |
+| **[A Timely Opportunity: Advancing the Role of Climate and Environmental Data in Collaborative Governance](./blog/role-of-climate-and-environmental-data-in-collaborative-governance)** Shannon Dosemagen        | June 7           |   |
+| **[Distilling Topographies](./blog/distilling-topographies)** Ijeamaka Anyene Fumagalli                                                                               | June 7           |   |
 | **What Worlds Do We Occupy and How Does Data Affect These Worlds?** Melissa Kagen                                                   | June 14          |   |
 | **Lessons on Data, Environment, and Life Contained in Reusables** Alyssa Melody Frias Paglumotan                                    | June 14          |   |
 | **Fire Zine: Ecosystems and Human Scales** Cody Markelz and Jackie Dean                                                             | June 21          |   |
