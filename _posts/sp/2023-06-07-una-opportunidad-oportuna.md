@@ -1,6 +1,6 @@
 ---
 title: "Una oportunidad Oportuna: Promover el Papel de los Datos Climáticos y Medioambientales en la Gobernanza Colaborativa"
-date: 2023-06-07 00:00:00
+date: 2023-06-06 00:00:00
 description: Shannon Dosemagen writes about climate and environmental data.
 featured_image: /assets/img/theme/dosemagen_header.png
 locale: sp

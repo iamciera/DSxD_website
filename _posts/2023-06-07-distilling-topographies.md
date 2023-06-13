@@ -1,7 +1,7 @@
 ---
 title: Distilling Topographies
-date: 2023-06-01 00:00:00
-description: Ijeamaka Anyene Fumagalli's essay about Distilling Topographies
+date: 2023-06-06 00:00:00
+description: Artist Ijeamaka Anyene Fumagalli explores temporary in generative art through code and embroidery
 featured_image: /assets/img/theme/Figure_1_Anyene.jpg
 uid: distilling-topographies
 locale: en
@@ -24,7 +24,7 @@ Figure 1:
 <center>
 <figure>
 	<img src="../assets/img/theme/Figure_1_Anyene.jpg" alt="Picture of the artist holding the hand-stitched paper embroidery piece against a wall. The piece is seven mountain ridges, with each individual mountain ridge being composed of embroidery thread stitched at various angles.">
-    Picture of the artist holding the hand-stitched paper embroidery piece against a wall. The piece is seven mountain ridges, with each individual mountain ridge being composed of embroidery thread stitched at various angles.
+    Distilling Topographies, 2022. Embroidery thread on acrylic paper.
 </figure>
 </center>
 
@@ -33,6 +33,6 @@ Figure 2:
 <center>
 <figure>
 	<img src="../assets/img/theme/Figure_2_Anyene.png" alt="Picture of a map detailing how the final piece should be created. This map contains a grid of numbers where each number represents the embroidery thread color and the angle of the stitch. The map also contains additional details such as the number of ridges, mountain type, and slope, all of which were parameters for the generative art system.">
-    Picture of a map detailing how the final piece should be created. This map contains a grid of numbers where each number represents the embroidery thread color and the angle of the stitch. The map also contains additional details such as the number of ridges, mountain type, and slope, all of which were parameters for the generative art system.
+    Distilling Topographies, 2022. Generative art acrosswalk for embroidery.
 </figure>
 </center>
