@@ -3,7 +3,11 @@ title: "Antecedent Technology: Don’t Colonize Our Future"
 date: 2023-06-28 00:00:00
 description: Amelia Winger-Bearskin
 featured_image: /assets/img/theme/winger-bearskin_figure1.jpeg
+uid: antecedent-technology
+locale: en
 ---
+
+{% include language-selector.html %}
 
 In data science, we talk about models suffering from either “overfitting” or “underfitting.” Overfitting is when a model exhibits a low degree of bias, but a high degree of variance. In other words, it accepts a multitude of differences within the data, but it doesn’t have very much predictive power. Underfitting is the inverse of this—high bias, low variance. This is what happens when you make a generalization without enough data, or with data that is not diverse enough to represent the real world.
 

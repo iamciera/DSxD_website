@@ -3,7 +3,11 @@ title: "Our History: Global Queer Rights Through a Historical Colonial Lens"
 date: 2023-07-05 00:00:00
 description: EB Dickinson
 featured_image: /assets/img/theme/dickinson_header.png
+locale: en
+uid: global-queer-rights
 ---
+
+{% include language-selector.html %}
 
 Like in the US, British colonialism has cast a long shadow of colonial violence on queerness across the world. As someone interested in the comparative rights of queer people globally, considering this historical context made me wonder about the relationship between LGBTQ+ rights today and the legacy of British colonialism.
 Before going deeper, I want to first acknowledge that colonization started by destroying indigenous cultures, and colonization should end with uplifting them. As a descendant of colonizers, I feel it is important for me to be in service to indigenous leaders—to try and repair what is broken. The future of queer liberation should be centered on indigenous queer movements across the globe.

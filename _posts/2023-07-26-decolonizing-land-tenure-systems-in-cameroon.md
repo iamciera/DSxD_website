@@ -3,7 +3,11 @@ title: "Decolonizing Land Tenure Systems in Cameroon: An Inclusive Data Science 
 date: 2023-07-26 01:00:00
 description: Jacques Wilfried Kenfack Kenjio
 featured_image: /assets/img/theme/Kenjio_figure1.png
+locale: en
+uid: cameroon
 ---
+
+{% include language-selector.html %}
 
 Who owns land in Africa? This is a big question, and one whose answer impacts many people, including my family in Cameroon, West Africa. We were impacted by a massive government land-grabbing incident in March 2014 in my childhood neighborhood of Mambanda, Douala, that rendered over three thousand people homeless and hopeless. During this event, thousands of people lost their homes and received no compensation or relocation assistance. The land seized from mostly low-income communities residing in this neighborhood was attributed to eminent domain and put to industrial development. With no prior eviction notice given, displaced residents recognized this incident as an oppressive act by the government to acquire their land forcefully. This experience motivated my doctoral research that examines the topics of decolonization, land tenure, and land reform, specifically the colonial and post-colonial era land ordinances that significantly reduced customary ownership rights for the vast majority of Cameroonians. I present my community’s experiences to help one appreciate the importance of inclusivity, power-sharing, representation, participation, and collective decision-making for shifting from colonial practices and policies to decolonized forms of land use and ownership.
 

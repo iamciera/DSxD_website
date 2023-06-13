@@ -3,7 +3,11 @@ title: Irony Creek
 date: 2023-07-12 01:00:00
 description: Sharla Gelfand
 featured_image: /assets/img/theme/Gelfand_figure1.png
+locale: en
+uid: irony-creek
 ---
+
+{% include language-selector.html %}
 
 In late July 2022, I went on a backpacking trip with four people: two friends from Toronto, and two people I had never met (friends of one of my friends). Among us we had two artists, one arts worker, one frontline nurse, and a statistician (myself). We met up at my brother’s apartment in Victoria, BC, (where he had just moved a couple weeks prior) and borrowed some gear, left some things at the apartment, then spent too long buying camping food and supplies at overpriced island grocery stores before we began the long drive up to Port Hardy on the northern part of Vancouver Island to hike the North Coast Trail.
 

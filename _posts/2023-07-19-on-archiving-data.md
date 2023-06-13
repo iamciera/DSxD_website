@@ -3,7 +3,11 @@ title: On Archiving (Data)
 date: 2023-07-19 01:00:00
 description: Stina Baudin
 featured_image: /assets/img/theme/Baudin_figure1.png
+locale: en
+uid: on-archiving-data
 ---
+
+{% include language-selector.html %}
 
 Orbiting data entered my practice as an artist when I began to consider how weavings, similar to coding, could become an embedded language for talking about my cultural identity and ancestral migrational journey. While I was living abroad, I continued to think about the idea of the Black global diaspora. Each new country—Belgium, Germany, and Thailand—placed me in a new categorization. Depending on my geographical location and social environment, I was “Étrangère,” “Buitenlander,” “Ausländer,” or “Farang.” Sometimes, the groupings were merely ways of statistically classifying my place of birth to push paperwork along within a bureaucratic system. Other times, it felt as if a hostile identification process was imposed on my body to render unwelcoming sentiments while I attempted to navigate new and unfamiliar territories for both education and work.
 
@@ -60,4 +64,4 @@ References:
 
 1.  The W.E.B. Du Bois Center at the University of Massachusetts Amherst. W. E. B. Du Bois’s Data Portraits: Visualizing Black America. (Princeton Architectural Press, 2018).
 2.  2022 speakers. YWCA Madison [https://www.ywcamadison.org/what-were-doing/race-gender-equity/racial-justice-summit/2022-speakers/](https://www.ywcamadison.org/what-were-doing/race-gender-equity/racial-justice-summit/2022-speakers/) (2021).
-3.         Glissant, Edouard. 1990. Poetics of relations: For Opacity
+3.          Glissant, Edouard. 1990. Poetics of relations: For Opacity

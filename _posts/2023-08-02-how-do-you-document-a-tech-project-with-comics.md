@@ -3,7 +3,11 @@ title: How Do You Document a Tech Project with Comics?
 date: 2023-08-02 01:00:00
 description: Julia Evans
 featured_image: /assets/img/theme/Evans_Figure1.jpeg
+locale: en
+uid: tech-comics
 ---
+
+{% include language-selector.html %}
 
 Every so often, I get emails from people saying basically, “Hey Julia! We have an open-source project! We’d like to use comics/zines/art to document our project! Can we hire you?”
 

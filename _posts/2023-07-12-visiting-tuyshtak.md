@@ -3,7 +3,11 @@ title: Visiting Tuyshtak
 date: 2023-07-12 00:00:00
 description: M.V. Eitzel
 featured_image: /assets/img/theme/Eitzel_header.png
+locale: en
+uid: visiting-tuyshtak
 ---
+
+{% include language-selector.html %}
 
 This piece was first written for Joan Haran’s “Imaginactivism” event at the Science and Justice Research Center at UC Santa Cruz in 2017. The prompt was "900 words about a place that is particularly meaningful to you... Who and what have (had) attachments to that place, and how are those attachments bound up in larger networks of interrelationship? Do those attachments open up ways of imagining flourishing cohabitation (however you conceive of that), or do those attachments need to be disconnected and / or reconnected to create spaces of possibility?" Joan suggested alternate pasts, presents, or futures, and I chose to imagine a future only about 50 years from now.
 

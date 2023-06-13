@@ -3,7 +3,11 @@ title: A Conversation with Allison Horst
 date: 2023-08-02 01:00:00
 description: Jenn Schilling
 featured_image: /assets/img/theme/allison.png
+locale: en
+uid: allison-horst
 ---
+
+{% include language-selector.html %}
 
 Allison Horst is an artist and a data scientist advocate at Observable. She’s created a library of open artwork for data science and statistics education and has also been a painter her entire life, focusing on landscape and plein air oil painting. You can find her work at [https://allisonhorst.com/](https://allisonhorst.com/).
 
@@ -59,7 +63,7 @@ I hope it makes people feel a little bit more welcome when they start learning R
 
 When I first started, I felt the pressure that my data science artwork needed to be didactic and have clear learning objectives. But I'm really happy about the shift to not feeling pressure to have learning objectives for everything. That way, I can focus on just making people feel a little bit better as they're learning hard things—that is my top priority with the art.
 
-Is there anyone else’s artwork that you are in love with lately?
+##### Is there anyone else’s artwork that you are in love with lately?
 
 I recently saw Helga Stenzel’s work on Twitter and almost lost my mind, and I'm still trying to resist buying every print on her site ([https://www.helgastentzel.com/](https://www.helgastentzel.com/)). I love the Laundrosaurus so much. I think that her transformation of very normal, everyday things into artwork is just really interesting and funny. I feel like there's so much comedy in it. Her ideas are just brilliant.
 

@@ -3,7 +3,11 @@ title: A Conversation with Ellie Balk
 date: 2023-06-21 00:00:00
 description: Interview by Sujata Bhattacharyya
 featured_image: /assets/img/theme/Balk_header.png
+uid: ellie-balk
+locale: en
 ---
+
+{% include language-selector.html %}
 
 Ellie Balk has worked as a professional artist for over eighteen years. She currently lives in Brooklyn while working internationally. Her work in Visualizing Mathematics has been published nationally and internationally and has been adapted for use in elementary and high school mathematics curricula. Her public artwork can be experienced extensively throughout New York City and St. Louis, Missouri, nationally as well as internationally in Buenos Aires, Argentina; Mae Rim, Thailand; Senegal, West Africa; and Marrakech, Morocco. Ellie holds a bachelor’s of fine arts from Bowling Green State University in Ohio and a master’s of fine arts from the Pratt Institute.
 
