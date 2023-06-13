@@ -3,7 +3,11 @@ title: Lessons on Data, Environment, and Life Contained in Reusables
 date: 2023-06-14 00:00:00
 description: Alyssa Melody and Frias Paglumotan's essay on data, environment, and life contained in reusables
 featured_image: /assets/img/theme/paglumotan_header.png
+uid: lessons-on-data
+locale: en
 ---
+
+{% include language-selector.html %}
 
 <center>
 <figure>

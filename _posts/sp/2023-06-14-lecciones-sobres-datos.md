@@ -1,0 +1,99 @@
+---
+title: "Lecciones sobres Datos, Medio Ambiente y Vida Contenidas en los Reutilizables"
+date: 2023-06-14 00:00:00
+description: Alyssa Melody Frias Paglumotan
+featured_image: /assets/img/theme/paglumotan_header.png
+locale: sp
+uid: lessons-on-data
+---
+
+{% include language-selector.html %}
+
+<center>
+<figure>
+“Bakal didto sang Batchoy¹ sa Reegals.² Dal-a niyo ang pitsel.”<br/>
+Ve y Compra Batchoy en Reegals. Trae la jarra. 
+</figure>
+</center>
+
+Soy una probinsyana³ nacida en 1998 en una ciudad llamada Kabankalan, ubicada cincuenta y cinco millas al sur de la ciudad de Bacólod, en una isla en forma de calcetín llamada Negros, que originalmente era conocida como Buglas. Cuando crecía, mi madre o padre a menudo nos pedían a mis otros dos hermanos y a mí que compráramos “pamahaw,”⁵ un término hiligueino que significa “merienda.” Algunos de mis recuerdos de la infancia más preciados incluyen llevar una jarra y contenedores a un querido restaurante local (como Reegals) para llevar sopa y otros alimentos o llevar una “bolsa de saco de arroz” reusable al mercado. Basta mabutangan, pwede masudlan—cualquier cosa que pueda contener algo puede ser un recipiente. Ahora, puede parecerte absurdo que las sopas sean colocadas en jarras destinadas para bebidas, pero durante este tiempo yo no cuestionaba por qué la comunidad había desarrollado este sencillo sistema de dejar esos recipientes en restaurantes y puestos del mercado, confiando plenamente en que volverían a nosotros. El aislamiento de la isla hizo que tardáramos en ponernos al día con las tendencias y los avances de las ciudades más grandes; todavía no habíamos sido alcanzados por la “tendencia” de los plásticos desechables. Pero esa tendencia definitivamente nos alcanzó de lleno.
+
+En nuestra isla solía haber una fuerte cultura de reciclaje. La mayoría de los recuerdos de mi época en esta isla incluyen a mis abuelos, de ambos lados, especialmente a mi Lola Gloria, a quien recuerdo vívidamente haciendo almohadas y rellenándolas con el algodón proveniente de los frutos que recogía del gran árbol de kapok⁶ que había junto a nuestra casa. Fue un pasatiempo vespertino para ella durante años. Eventualmente, a medida que los plásticos desechables nos alcanzaban, esos rellenos de algodón fueron sustituidos por empaques plásticos de varios tamaños, que luego serían lavados meticulosamente, doblados, cortados en trozos, empacados y que más tarde utilizaría para rellenar esas almohadas. Cuando le preguntaba por este meticuloso proceso, ella siempre decía, “_Kanugon_”—_Es un desperdicio tirarlo_, haciendo honor al viejo y oportuno dicho filipino “_May pera sa basura._” _Hay dinero en cada basura._.
+
+Fue en Kampo Klima (Campamento Clima) en 2018, un campamento juvenil de iniciativa ambiental de toda la provincia, que expuse el gran problema de los desechos plásticos. Me enteré que toda nuestra isla, no solo las zonas costeras sino incluso en el interior, estaba en riesgo de quedar sumergida debido al alarmante ascenso del nivel del mar. También vi fotografías de criaturas terrestres y marinas sufriendo, como tortugas y aves enredadas en redes y pajitas de plástico, ballenas muertas encontradas con enormes cantidades de desechos plásticos en sus estómagos, y lamentablemente, mucho más. Desde ese momento, mi perspectiva cambió. Quería convertirme en una defensora activa de la causa. Comencé por encontrar alternativas ecológicas para los plásticos, como el uso de reutilizables y pasadors (servilletas de tela), y comencé a hablar con otros defensores de la causa. Tenía la esperanza de que con un poco de esfuerzo, esa pesadilla de las aguas sumergidas de Kabankalan no se materializaría.
+
+Casi media década practicando, observando y documentando mis experiencias con reusables en diferentes lugares han suscitado un sinfín de discusiones y una mayor aceptación en mis distintos círculos. Fue, de hecho, una discusión con un amigo que quería seguir los mismos pasos lo que generó la idea de crear una guía para las personas que quisieran abrazar las prácticas cero residuos pero que no sabían por dónde empezar. Quiero crear un mapa comunitario abierto donde todos puedan compartir sus lugares favoritos y las prácticas cero residuos que esos lugares adoptan. Será un centro para que las personas compartan sus consejos e ideas, un lugar para repensar soluciones que ayuden otros a navegar más fácilmente por las prácticas cero residuos. Esta idea está inspirada en el movimiento Wala Usik7 (“nada desperdiciado” en hiligueino), una iniciativa comunitaria de Philippine Reef and Rainforest Conservation Foundation, Inc. (PRRCFI). También me inspiró la forma en que Ángel Mata de Low-Impact Filipina⁸documenta su viaje hacia el bajo desperdicio así como un grupo comunitario local en Facebook llamado Buhay Zero-Waste (ZW) Community⁹, que me ayudó enormemente en mis primeros años.
+
+<center>
+<figure>
+	<img src="../assets/img/theme/Paglumotan_Figure1.jpg" alt="Un tablero de cartón hecho como un mapa físico titulado 'Mi mapa Wala Usik' con cada lugar de la parte cartografiada de Kabankalan marcada con un alfiler de un color específico como indicador (rojo para establecimientos locales y de cosecha propia, azul para los Cafés, blanco para los establecimientos de compras (centros comerciales, tiendas de comestibles, etc.) verde para los espacios públicos como las plazas y calles, y amarillo para las cadenas y establecimientos de comida rápida). Abajo a la izquierda están las fotografías recopiladas de cada recuerdo y abajo a la derecha hay más ideas a desarrollar e indicadores de sus prácticas ecológicas como pagos sin papel, efectivo, empaque, restauración, etc.">
+    ‘Porque los Alfileres Traen a la Memoria Todos los Recuerdos. ¡Wala Usik marcando físicamente todo con alfileres, desde recuerdos y experiencias y más ideas a un lado! ¡Mira! Un mini (alfiler) gráfico de barras.
+</figure>
+</center>
+
+## Datos desde la Raíz
+
+Para trabajar en este mapa comunitario, necesitaba datos. Empecé con una beca de ciencia de datos de For the Women Foundation¹⁰ y pronto aprendí que cuántos más datos recopilábamos, mejor información podríamos descubrir. Sin embargo, como una joven científica de los datos tuve problemas con las palabras de moda que tenían descripciones vagas, como "ciencia de datos " (DS), “datos abiertos,” y "aprendizaje automático " (ML). Sabía que quería hacer algo con datos y la justicia climática, pero no sabía hacia dónde dirigir mi atención específicamente. ¡Fue allí cuando me di cuenta de que ya había datos de calidad con los que podía trabajar!
+
+Uno de los primeros pasos que di fue recopilar todas mis experiencias (victorias compartidas en línea, documentación, notas, narrativas y observaciones) e intentar darles sentido, desarrollando una forma sistemática y organizada de “analizar” mejor esos datos y crear un conjunto de datos significativo. Esto naturalmente significó volver sobre los pasos de todas esas experiencias. Comencé mi flujo de trabajo habitual yendo personalmente a la zona como un cliente y observando cómo funcionaban las cosas. Tomaba notas de cómo la tienda utilizaba los envases (especialmente los plásticos), y eventualmente volvería con soluciones alternativas después de analizar las que funcionaban y las que no.
+
+A medida que progresaba, creé características adicionales para mi conjunto de datos, como etiquetas de alternativas probadas para plásticos desechables y otras iniciativas que contribuyen a la sostenibilidad. Esta información se puede encontrar en línea en las aplicaciones cartográficas, como Google Maps y OpenStreetMap, y en las páginas de las redes sociales de las tiendas, que pueden verificarse tras una visita. Ejemplos de características incluyen: marcadores de lugares que ofrecen sistemas de pago sin efectivo (por ejemplo, GCash, PayMaya); zonas que participan activamente en iniciativas ecológicas (por ejemplo, animando a los clientes a utilizar sus propias bolsas ecológicas, celebrando sus propios Domingos Sin Bolsas, utilizando la menor cantidad de plástico posible, etc.); y establecimientos que aceptan reusables como opciones alternativas. Existen muchos más datos que se podrían incluir, como la disponibilidad de estaciones de relleno y opciones de accesibilidad así como un lugar para que las personas de la comunidad puedan compartir sus propias ideas y consejos. Este esfuerzo de "datos lentos" requirió un trabajo de datos consciente a nivel personal, desde la recolección hasta el análisis. Si me hubiera basado únicamente en los datos en línea sin haber tenido la experiencia física, no me hubiera dado cuenta de que muchos de los datos en línea eran obsoletos o incompletos, especialmente en los lugares mal cartografiados. Esto me ayudó a darme cuenta del valor de este esfuerzo, tanto en línea como fuera de línea.
+
+Después de recolectar estos datos, la guía y el mapa comunitario se unieron cohesivamente, haciendo que los datos y el trabajo fueran visibles y accesibles a una audiencia más amplia. Como una vez dijo mi amigo Dairin, "Para poder ser visto, debes ser visible." Mi objetivo es crear un mapa que sea interactivo, animando a los usuarios a comenzar sus propias iniciativas para reducir el uso de plásticos y buscar soluciones alternativas. También es una excelente forma de introducir los datos abiertos y el aprendizaje en una forma que fomente los datos comunitarios, para las personas y por las personas. El mapa mostrará conocimientos de la localidad con matices de la comunidad, y por lo tanto nos ayudará a preservar las prácticas pasadas, alimentar las prácticas presentes e inspirar esperanza para las prácticas futuras. Este recurso puede iniciar conversaciones entre los miembros de la comunidad y conducir a una discusión más amplia sobre otras iniciativas medioambientales.
+
+Por el momento, he cartografiado algunos lugares en mi comunidad en formato impreso, utilizando papel y otras formas de medios de comunicación mixtos, y destacado las prácticas e historias que hay detrás de ellas. Esto me ayudó a tener una ideal del significado que tiene el trabajo y al mismo tiempo mejorar y dar forma al proyecto.
+
+## Sobre las Intersecciones de Datos (y la Vida)
+
+A medida que navego por este viaje de bajo desperdicio, pasando por el acto continuo y consciente de interactuar con el medio ambiente, he llegado a varias conclusiones. Al principio era emocionante, pensar en soluciones alternativas ambientalmente conscientes, pero a medida que transcurría el tiempo, me di cuenta de que toda la rutina sistémica también se ve desafiada en el proceso—afectando no solo a los círculos a los que pertenezco, sino rompiendo las normas de la comunidad en general.
+
+En realidad, el acto de dar un paso aparentemente pequeño, como utilizar contenedores reusables a diferencia de los plásticos desechables, en realidad altera la relación entre el consumidor y el minorista. Cuando estás acostumbrado a hacer algo y te enfrenas a lo inusual, te ves obligado a dar un paso atrás, pensar y cuestionar. Tienes que enfrentar miradas extrañas cuando ansiosamente dices, "_Diri lang nakon ibutang Tita/Tito_”—_Puedes colocarlo en mi contenedor_. Recibirás comentarios no solicitados cuando llevas recipientes a todas partes, y esto puede hacer que los demás se sientan incómodos con su propio comportamiento (“¡Perdona si estamos usando estos plásticos desechables!"). Puede hacerte sentir alienado e incómodo simplemente por querer hacer algo pequeño. Pero entre esos encuentros, también están esos maravillosos iniciadores de conversación que lo compensan, especialmente con aquellos que nos encontramos en el día a día.
+
+Un excelente ejemplo fue una mujer que conocí que tenía un puesto de comida callejera. Antes de la pandemia, ella era una de esas que me miraban raro cuando ansiosamente preguntaba, "_Tita, pwede diri mo lang ibutang ang kwekkwek?_”¹¹—_Tía, ¿puedes ponerlo en mi recipiente?_—pero aun así, accedió. Tras varias visitas consecutivas, se mostró más abierta y solidaria con mi iniciativa, abriendo la conversación preguntando, _"Diin imo bulutangan?” (¿Dónde está tu recipiente?)_ o diciendo a sus compañeros y otros clientes, _"Ah amo ni amon suki¹², may dala na iya tupperware” (Ah, ¡aquí está! Una de mis clientas más leales, que siempre trae sus contenedores)_. Otros vendedores ni siquiera se inmutaron, porque para los mayores el uso de contenedores reusables es simplemente el retorno a una práctica antigua. Estas sencillas experiencias también aprovechan la creatividad de la comunidad para intentar volver a los tiempos de nuestros ancestros que usaban menos—o, si es posible, ningún—empaque desechable.
+
+Al igual que mis interacciones con los vendedores, hacer un análisis de datos consciente requiere ver los datos a desde el punto de vista de los demás e intentar llegar a un punto medio. Debemos reconocer que lo que funciona para algunos no funciona para otros, pero es importante encontrar un terreno común. Es fácil ver los datos como simples números o líneas en nuestras bases de datos, o enfocarse solo en los detalles técnicos de nuestro trabajo. Al hacerlo, a menudo sobre generalizamos inconscientemente e ignoramos los detalles que quizás sean los más importantes para la comunidad. Como subrayan Catherine D’Ignazio y Lauren Klein en su libro Data Feminism, “Abraza el pluralismo. [. . .] El conocimiento más completo proviene de sintetizar múltiples perspectivas, dando prioridad a las formas de conocimientos locales, indígenas y basadas en la experiencia.”¹³ Este mapa pretende abrazar ese pluralismo poniendo a la comunidad en el centro.
+
+<center>
+<figure>
+	<img src="../assets/img/theme/Paglumotan_Figure2.jpg" alt="Una nota sobre Kabankalan City Plaza con el boceto mal dibujado a mano de Lissa de su recipiente y vaso reutilizable. A la izquierda, se encuentra el alfiler destacado en la Figura 2, resaltado con un cuadro verde y las fotografías tomadas por ella en la zona, como el infame 'kwek-kwek' en el recipiente, el 'goto' caliente (un arroz filipino y tripas de ternera cocinadas con jengibre y adornadas con ajo tostado, cebolleta, pimienta negra y chicharon) en un contenedor de helado. En la parte superior se pueden ver las etiquetas sobre el Lugar, como los iconos correspondientes a transacciones solo en efectivo, Cenas y Envases Reutilizables para Llevar. En la parte inferior derecha está la sección de notas donde coloca los consejos que ha probado para moverse por la zona, como hacer su solicitud amablemente al pedir.">
+    Tarjeta de ejemplo de cómo se vería al destacar el método de bajo desperdicio de cada lugar a través de consejos amistosos, etiquetas indicadoras, fotos, Bosquejo de Kabankalan City Plaza. 
+</figure>
+</center>
+
+## Brotar de la Tierra, Crecer Hacia Arriba y Más Allá
+
+La experiencia de trabajar en este proyecto me ha ayudado a conocer más a mi comunidad, compartir mi pasión y animar a otros, pero al mismo tiempo, reconozco que todavía queda mucho trabajo por hacer. El uso del plástico está profundamente arraigado en nuestros sistemas, estrangulándonos, y el aumento de los plásticos desechables se acentuó durante la pandemia.¹⁴ Yo, también, he luchado con las complejidades de practicar esfuerzos de bajo desperdicio frente a la pandemia.
+
+Sin embargo, no estoy sola en este trabajo de datos. Una voz colectiva está velando por el movimiento climático, utilizando sus propias habilidades y datos para informar iniciativas para la comunidad. Por ejemplo, la Global Alliance for Incinerator Alternatives (GAIA) publica informes, como este de 2019, que ofrece una imagen más clara sobre cómo las evaluaciones de residuos y las auditorías de marcas de diferentes iniciativas de limpieza (limpiezas costeras, etc.) crean una imagen detallada de cómo combatir el gran problema de los plásticos.¹⁵ A partir de estos informes, ayuda a organizaciones como PRRCFI a pensar en soluciones como Wala Usik Tiangge¹⁵ como una respuesta al ecosistema “tingi-tingi” ("economía de bolsitas").
+
+Con todas estas iniciativas, tanto individuales como colectivas, podemos seguir debatiendo y descubriendo qué prácticas son sostenibles. Ya sean esfuerzos pequeños o grandes, cada dato (y contenedor reusable) ayuda.
+
+<center>
+<figure>
+"Dali lang gid, dal-on ko akon balunan kag tubigan."<br/>
+Espera un momento, voy a traer mi contenedor y mi botella de agua.
+</figure>
+</center>
+
+**Bio:**
+
+Alyssa Melody Paglumotan es una filipina apasionada y curiosa que actualmente busca ser una científica de datos para el bien social. Su objetivo es contribuir a que la ciencia de datos sea interdisciplinaria y abierta a todos. Hasta ahora, ha sido una mujer en la tecnología, educadora, científica de datos junior, comunicadora científica, escritora, voluntaria para varias organizaciones (más de 10 años y contando), y mucho más, siempre abierta a desaprender y volver a aprender. Actualmente es la directora de comunicaciones de GDG Bacolod, una organización de tecnología local que comparte su visión de empoderar a las mujeres en la tecnología y a todos en la provincia.
+
+References / Notas al Pie de Página
+
+1. Una sopa de fideos hecha con vísceras de cerdo, chicharrón de cerdo triturado, caldo de pollo, lomo de ternera y fideos redondos.
+2. Un restaurante local muy apreciado en la ciudad.
+3. Término femenino para alguien de la provincia.
+4. El nombre Buglas provine una palabra hiligueina antigua que significa “cortado,” ya que se creía que la isla había sido separada de una de una tierra más grande debido al aumento de las aguas durante la Era de Hielo. El nombre de la isla fue cambiado a Negros por los colonizadores españoles. Filipinas tiene una historia muy compleja de colonialismo (más notablemente español, americano y japonés) y el nombre de Isla Negros.
+5. La misma palabra existe en filipino, el lenguaje dominante en Filipinas, como resultado de una influencia de colonización. Para no confundir, hiligueino y filipino son solo dos de las 187 lenguas en Filipinas, siendo el filipino el lenguaje dominante utilizado en el país. Hiligueino se utiliza principalmente en las zonas de Bisayas y Mindanao del país, especialmente atribuidos a las islas de Panay y Negros en Bisayas Occidentales. Existen varios temas de debate en torno al lenguaje vs el dialecto.
+6. Lo llamaríamos el árbol doldol en Hiligueino.
+7. [https://www.inclusivebusiness.net/ib-voices/zero-waste-innovations-wala-usik-model-philippines](https://www.inclusivebusiness.net/ib-voices/zero-waste-innovations-wala-usik-model-philippines)
+8. [https://m.facebook.com/lowimpactfilipina/about/](https://m.facebook.com/lowimpactfilipina/about/)
+9. [https://www.facebook.com/groups/buhayzerowaste/](https://www.facebook.com/groups/buhayzerowaste/)
+10. Una fundación filipina sin fines de lucro que empodera a las filipinas dotándolas de habilidades tecnológicas, especialmente en el campo del marketing digital y ciencia de datos, a través de becas.
+11. Huevos de codorniz fritos con naranja, una delicia de la comida callejera, que también utiliza huevos duros como alternativa. [https://panlasangpinoy.com/pinoy-street-food-orange-egg-tokneneng-qwek-kwek-kwek-recipe/](https://panlasangpinoy.com/pinoy-street-food-orange-egg-tokneneng-qwek-kwek-kwek-recipe/)
+12. Término para los clientes leales, uno que visita regularmente cierta tienda/establecimiento.
+13. [https://data-feminism.mitpress.mit.edu/](https://data-feminism.mitpress.mit.edu/)
+14. [https://www.oecd-ilibrary.org/sites/9e4fd47f-en/index.html?itemId=/content/component/9e4fd47f-en](https://www.oecd-ilibrary.org/sites/9e4fd47f-en/index.html?itemId=/content/component/9e4fd47f-en)
+15. [https://www.no-burn.org/wp-content/uploads/PlasticsExposed-3.pdf](https://www.no-burn.org/wp-content/uploads/PlasticsExposed-3.pdf)
+16. [https://www.no-burn.org/wala-usik-zero-waste-sari-sari-stores/](https://www.no-burn.org/wala-usik-zero-waste-sari-sari-stores/)

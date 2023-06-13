@@ -3,7 +3,11 @@ title: What Worlds Do We Occupy and How Does Data Affect These Worlds?
 date: 2023-06-14 00:00:00
 description: Melissa Kagen's essay explores how we can humanize data work
 featured_image: /assets/img/theme/Kagen_figure1.png
+uid: what-worlds-do-we-occupy
+locale: en
 ---
+
+{% include language-selector.html %}
 
 In Andrew Shouldice’s action-adventure game _Tunic_ (2022), I wake up as a bushy-tailed fox dazed on a beach and slowly make my way around a lush, isometric world drawn straight out of classic _Zelda_. No one tells me anything. When I get to an altar with a lit brazier, I’m given the option to rest. It’s a save point. I know this because I’m familiar with that game convention, and because when I’m soon killed by a paladin-esque teddy-bear-looking guard with glowing eyes, I wake up again at that altar—twenty coins poorer and with newfound respect for teddy bears. I slowly make my way around the world, unable to reach new areas until I learn enough (and gain enough upgrades) to make it past the increasingly dangerous, devastatingly adorable enemies. My favorite: an off-kilter two-legged crocodile that’s mostly just jaw running towards me with the _pat-pat-pat_ of an enormous bird while chomping aggressively, in a way that just might be friendly if it didn’t keep killing me off. But I don’t really know what any of this data means yet; I’m still just wandering.
 
