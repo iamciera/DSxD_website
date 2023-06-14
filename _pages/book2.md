@@ -1,6 +1,6 @@
 ---
 title: Vol. 2 Our Environment
-subtitle: Release Date - June 7, 2023
+subtitle: On Sale Now!
 description: 
 featured_image: /assets/img/book2_header.png
 ---
@@ -23,18 +23,17 @@ margin: 30px 30px;
 
 ## <span style="color:MidnightBlue">**DSxD Anthology Vol. 2: Our Environment**</span>
 #### A collection of work by data designers, artists, and scientists
-##### Books will be available to order from this page **June 7, 2023**.
 
-<!-- 
+
 <p align="center">
   <div class="buttons">
-    <a href="http://tinyurl.com/FutureDS" class="btn btn-primary">
+    <a href="https://www.lulu.com/shop/kelsey-campbell-and-cathryn-ploehn-and-nancy-smith-and-julia-evans/our-environment/paperback/product-z6dgkz.html?page=1&pageSize=4" class="btn btn-primary">
       Buy Book Here
     </a>
   </div>
 </p>
 <br>
-  -->
+
 
 
 We loved showcasing the work created by the DSxD collective in our first anthology, The Future of Data Science, so much that we decided to do it again, this time with a theme of “Our Environment”. We picked this theme to explore a variety of worlds and to consider how data shapes those worlds.
@@ -56,10 +55,10 @@ To give each piece time to shine, we will release two chapters a week on our web
 
 |                                                                                                                                 |   Online Release |   |
 |---------------------------------------------------------------------------------------------------------------------------------|------------------|---|
-| **A Timely Opportunity: Advancing the Role of Climate and Environmental Data in Collaborative Governance** Shannon Dosemagen        | June 7           |   |
-| **Distilling Topographies** Ijeamaka Anyene Fumagalli                                                                               | June 7           |   |
-| **What Worlds Do We Occupy and How Does Data Affect These Worlds?** Melissa Kagen                                                   | June 14          |   |
-| **Lessons on Data, Environment, and Life Contained in Reusables** Alyssa Melody Frias Paglumotan                                    | June 14          |   |
+| **[A Timely Opportunity: Advancing the Role of Climate and Environmental Data in Collaborative Governance](./blog/role-of-climate-and-environmental-data-in-collaborative-governance)** Shannon Dosemagen        | June 7           |   |
+| **[Distilling Topographies](./blog/distilling-topographies)** Ijeamaka Anyene Fumagalli                                                                               | June 7           |   |
+| **[What Worlds Do We Occupy and How Does Data Affect These Worlds?](./blog/what-worlds-do-we-occupy-and-how-does-data-affect-these-worlds)** Melissa Kagen                                                   | June 14          |   |
+| **[Lessons on Data, Environment, and Life Contained in Reusables](./blog/lessons-on-data-environment-and-life-contained-in-reusables)** Alyssa Melody Frias Paglumotan                                    | June 14          |   |
 | **Fire Zine: Ecosystems and Human Scales** Cody Markelz and Jackie Dean                                                             | June 21          |   |
 | **A Conversation with Ellie Balk** Interviewed by Sujata Bhattacharyya                                                            | June 21          |   |
 | **Antecedent Technology: Don’t Colonize Our Future** Amelia Winger-Bearskin                                                         | June 28          |   |
