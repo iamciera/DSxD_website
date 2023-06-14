@@ -2,18 +2,22 @@
 title: A Conversation with Ellie Balk
 date: 2023-06-21 00:00:00
 description: Interview by Sujata Bhattacharyya
-featured_image: /assets/img/theme/Balk_header.png
+featured_image: ../assets/img/theme/balk_header_2.png
 uid: ellie-balk
 locale: en
 ---
 
 {% include language-selector.html %}
 
+<p align="center">
+  <img height="300" src="../assets/img/theme/Balk_header.png" alt="Black and white illustration of a person with an oval face, smiling, long hair swept to one side and past their shoulders. They are wearing dangling earrings, and have an opened, patterned sweater over a v neck shirt. " >
+</p>
+
 Ellie Balk has worked as a professional artist for over eighteen years. She currently lives in Brooklyn while working internationally. Her work in Visualizing Mathematics has been published nationally and internationally and has been adapted for use in elementary and high school mathematics curricula. Her public artwork can be experienced extensively throughout New York City and St. Louis, Missouri, nationally as well as internationally in Buenos Aires, Argentina; Mae Rim, Thailand; Senegal, West Africa; and Marrakech, Morocco. Ellie holds a bachelor’s of fine arts from Bowling Green State University in Ohio and a master’s of fine arts from the Pratt Institute.
 
 <center>
 <figure>
-	<img src="../assets/img/theme/balk_figure2a.jpeg" alt="A zoomed-in view of a colorful mural painted on a white ceiling. Rectangular boxes Bars of varying widths in sevenix different colors of varying dimensions extend vertically along the central axis of the image. Both the second and fourth bars from top to bottom contain a couple of small circles representing additional information. From either side of the bars, along the horizontal axis emerge non-overlapping triangles of different sizes and colors.">
+	<img src="../assets/img/theme/balk_figure_1.jpeg" alt="A zoomed-in view of a colorful mural painted on a white ceiling. Rectangular boxes Bars of varying widths in sevenix different colors of varying dimensions extend vertically along the central axis of the image. Both the second and fourth bars from top to bottom contain a couple of small circles representing additional information. From either side of the bars, along the horizontal axis emerge non-overlapping triangles of different sizes and colors.">
     Genre of Color, 2021. Spotify Headquarters, World Trade Center, New York. The artwork displays the relationships between people’s associations of colors with words or songs. When attempting to create a “chromatic definition of sound,” Balk developed a survey asking Spotifiers to match a set of words describing a range of emotion with both a color and a sound. The survey was distributed internally, with the data informing the result. Learn more: <a href="https://elliebalk.com/#/genre-of-color/">https://elliebalk.com/#/genre-of-color/</a>.
 </figure>
 </center>
@@ -40,8 +44,8 @@ I remember one time, I was starting a new project in a classroom and I had shown
 
 <center>
 <figure>
-	<img src="../assets/img/theme/balk_figure2c.jpeg" alt="Picture of the artist holding the hand-stitched paper embroidery piece against a wall. The piece is seven mountain ridges, with each individual mountain ridge being composed of embroidery thread stitched at various angles.">
-    Picture of the artist holding the hand-stitched paper embroidery piece against a wall. The piece is seven mountain ridges, with each individual mountain ridge being composed of embroidery thread stitched at various angles.
+	<img src="../assets/img/theme/balk_figure2c.jpeg" alt="A side-view of a multi-colored, multi-paneled, stained glass window taken from the hallway of a school. Also, included are two close-ups of sections of the stained glass installation.">
+     Where We Are Home, 2022. Stained glass installation. Queens, New York. .
 </figure>
 </center>
 
@@ -53,8 +57,8 @@ One of my most challenging projects was a large stained glass piece I completed 
 
 <center>
 <figure>
-	<img src="../assets/img/theme/balk_figure2d.jpeg" alt="Picture of the artist holding the hand-stitched paper embroidery piece against a wall. The piece is seven mountain ridges, with each individual mountain ridge being composed of embroidery thread stitched at various angles.">
-    Picture of the artist holding the hand-stitched paper embroidery piece against a wall. The piece is seven mountain ridges, with each individual mountain ridge being composed of embroidery thread stitched at various angles.
+	<img src="../assets/img/theme/balk_figure2d.jpeg" alt="A side-view of a multi-colored, multi-paneled, stained glass window taken from the hallway of a school. Also, included are two close-ups of sections of the stained glass installation.">
+     Where We Are Home, 2022. Stained glass installation. Queens, New York. 
 </figure>
 </center>
 

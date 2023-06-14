@@ -2,7 +2,7 @@
 title: "Fire Zine: Ecosystems and Human Scales"
 date: 2023-06-21 00:00:00
 description: Cody Markelz and Jackie Dean
-featured_image: /assets/img/theme/Balk_header.png
+featured_image: ../assets/img/theme/fire_header.png
 ---
 
 <center>
