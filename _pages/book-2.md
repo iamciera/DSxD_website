@@ -59,8 +59,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 | **[Distilling Topographies](./blog/distilling-topographies)** Ijeamaka Anyene Fumagalli                                                                               | June 7           |   |
 | **[What Worlds Do We Occupy and How Does Data Affect These Worlds?](./blog/what-worlds-do-we-occupy-and-how-does-data-affect-these-worlds)** Melissa Kagen                                                   | June 14          |   |
 | **[Lessons on Data, Environment, and Life Contained in Reusables](./blog/lessons-on-data-environment-and-life-contained-in-reusables)** Alyssa Melody Frias Paglumotan                                    | June 14          |   |
-| **Fire Zine: Ecosystems and Human Scales** Cody Markelz and Jackie Dean                                                             | June 21          |   |
-| **A Conversation with Ellie Balk** Interviewed by Sujata Bhattacharyya                                                            | June 21          |   |
+| **[Fire Zine: Ecosystems and Human Scales](.blog/fire-zine-ecosystems-and-human-scales)** Cody Markelz and Jackie Dean                                                             | June 21          |   |
+| **[A Conversation with Ellie Balk](.blog/a-conversation-with-ellie-balk)** Interviewed by Sujata Bhattacharyya                                                            | June 21          |   |
 | **Antecedent Technology: Don’t Colonize Our Future** Amelia Winger-Bearskin                                                         | June 28          |   |
 | **“Dry at low water”: From Coastlines to Coast Traces** Clancy Wilmott                                                              | June 28          |   |
 | **Our History: Global Queer Rights Through a Historical Colonial Lens** EB Dickinson                                                | July 5           |   |
