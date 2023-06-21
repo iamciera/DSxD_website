@@ -1,6 +1,6 @@
 ---
 title: A Conversation with Ellie Balk
-date: 2023-06-21 00:00:00
+date: 2023-06-20 00:00:00
 description: Interview by Sujata Bhattacharyya
 featured_image: ../assets/img/theme/balk_header_2.png
 uid: ellie-balk
