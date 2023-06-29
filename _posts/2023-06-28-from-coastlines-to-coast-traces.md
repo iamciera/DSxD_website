@@ -1,6 +1,6 @@
 ---
 title: "“Dry at Low Water”:  From Coastlines to Coast Traces"
-date: 2023-06-28 00:00:00
+date: 2023-06-28 00:00:01
 description: Clancy Wilmott
 featured_image: /assets/img/theme/image1.png
 ---
