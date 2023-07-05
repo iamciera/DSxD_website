@@ -1,6 +1,6 @@
 ---
 title: "Our History: Global Queer Rights Through a Historical Colonial Lens"
-date: 2023-07-05 00:00:00
+date: 2023-07-05 01:00:00
 description: EB Dickinson
 featured_image: /assets/img/theme/dickinson_header.png
 locale: en

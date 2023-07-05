@@ -63,8 +63,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 | **[A Conversation with Ellie Balk](./blog/a-conversation-with-ellie-balk)** Interviewed by Sujata Bhattacharyya                                                            | June 21          |   |
 | **[Antecedent Technology: Don’t Colonize Our Future](./blog/antecedent-technology-dont-colonize-our-future)** Amelia Winger-Bearskin                                                         | June 28          |   |
 | **[“Dry at low water”: From Coastlines to Coast Traces](./blog/from-coastlines-to-coast-traces)** Clancy Wilmott                                                              | June 28          |   |
-| **Our History: Global Queer Rights Through a Historical Colonial Lens** EB Dickinson                                                | July 5           |   |
-| **The Cube** Midori Yajima and Cecilia De Sanctis                                                                                   | July 5           |   |
+| **[Our History: Global Queer Rights Through a Historical Colonial Lens](./blog/our-history-global-queer-rights-through-a-historical-colonial-lens)** EB Dickinson                                                | July 5           |   |
+| **[The Cube](./blog/the-cube)** Midori Yajima and Cecilia De Sanctis                                                                                   | July 5           |   |
 | **Visiting Tuyshtak** M. V. Eitzel                                                                                                  | July 12          |   |
 | **Irony Creek** Sharla Gelfand                                                                                                      | July 12          |   |
 | **On archiving (data)** Stina Baudin                                                                                                | July 19          |   |
