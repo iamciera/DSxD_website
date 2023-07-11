@@ -1,6 +1,6 @@
 ---
 title: Irony Creek
-date: 2023-07-12 01:00:00
+date: 2023-07-11 01:00:00
 description: Sharla Gelfand
 featured_image: /assets/img/theme/Gelfand_figure1.png
 locale: en

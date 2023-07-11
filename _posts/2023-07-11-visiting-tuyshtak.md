@@ -1,6 +1,6 @@
 ---
 title: Visiting Tuyshtak
-date: 2023-07-12 00:00:00
+date: 2023-07-11 00:00:00
 description: M.V. Eitzel
 featured_image: /assets/img/theme/Eitzel_header.png
 locale: en
