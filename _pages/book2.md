@@ -67,8 +67,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 | **[The Cube](./blog/the-cube)** Midori Yajima and Cecilia De Sanctis                                                                                   | July 5           |   |
 | **[Visiting Tuyshtak](./blog/visiting-tuyshtak)** M. V. Eitzel                                                                                                  | July 12          |   |
 | **[Irony Creek](./blog/irony-creek)** Sharla Gelfand                                                                                                      | July 12          |   |
-| **On archiving (data)** Stina Baudin                                                                                                | July 19          |   |
-| **Data & Organizing are about PEOPLE and POWER** Lauren Renaud                                                                      | July 19          |   |
+| **[On archiving (data)](./blog/on-archiving-data)** Stina Baudin                                                                                                | July 19          |   |
+| **[Data & Organizing are about PEOPLE and POWER](./blog/data-organizing-are-about-people-and-power)** Lauren Renaud                                                                      | July 19          |   |
 | **Decolonizing Land Tenure Systems in Cameroon: An Inclusive Data Science Approach** Jacques Wilfried Kenfack Kenjio                | July 26          |   |
 | **Multilingual Data Science: Ten Tips to Translate Science and Tech Content** Yanina Bellini Saibene and Natalia Soledad Morandeira | July 26          |   |
 | **A Conversation with Allison Horst** Interviewed by Jenn Schilling                                                                 | August 2         |   |
