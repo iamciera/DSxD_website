@@ -10,11 +10,28 @@ uid: ciencia-de-datos-multilingue
 {% include language-selector.html %}
 
 El lenguaje es un instrumento cognitivo; es el vehículo para aprender y construir nuestro mundo; y también puede transformarse en una fuente de exclusión.
-“Aproximadamente el 64% del contenido de internet está en inglés, a pesar de que sólo el 4.8% de la población mundial habla inglés como primera lengua. Si consideramos a quienes usan internet, casi 3 de cada 4 personas no llegan a entender más del 60% del contenido de la web.” [^1]
+<center>
+<figure>
+    “Aproximadamente el 64% del contenido de internet está en inglés, a pesar de que sólo el 4.8% de la población mundial habla inglés como primera lengua. Si consideramos a quienes usan internet, casi 3 de cada 4 personas no llegan a entender más del 60% del contenido de la web.” [^1]
+</figure>
+</center>
+
 La ciencia de datos afecta la vida de muchas personas globalmente. Esta práctica utiliza herramientas tecnológicas desarrolladas bajo ciencia, software y educación abiertas globales, pero la mayoría de los recursos son construidos y publicados en inglés. 
-“El lenguaje predominante del software abierto es inglés—en los códigos, contenidos e interacciones de la comunidad—y el dominio del inglés es una métrica con la que se juzga el rendimiento y la personalidad.” [^2]
+
+<center>
+<figure>
+   “El lenguaje predominante del software abierto es inglés—en los códigos, contenidos e interacciones de la comunidad—y el dominio del inglés es una métrica con la que se juzga el rendimiento y la personalidad.” [^2]
+</figure>
+</center>
+
 El inglés es la lengua franca de la ciencia de datos, lo cual crea una barrera significativa para quienes no son angloparlantes y quieren unirse a la disciplina: no podemos participar si no entendemos el idioma. [^3] Las autoras hemos experimentado esta barrera de primera mano. Ambas nacimos en un país de Sudamérica en el que el lenguaje oficial es el castellano, y necesitamos usar tecnología y ciencia de datos para enseñar e investigar adecuadamente en nuestras carreras.
-“El uso del idioma inglés (...) representa una tendencia significativa en la historia del diseño de lenguajes de programación. [^4]”
+
+<center>
+<figure>
+   “El uso del idioma inglés (...) representa una tendencia significativa en la historia del diseño de lenguajes de programación. [^4]”
+</figure>
+</center>
+
 Entonces, ¿qué acciones podemos tomar ante esta situación? Podemos usar nuestros privilegios para cambiarla, y aquí es donde entran en juego las traducciones impulsadas por comunidades.
 
 ##### El camino comunitario
