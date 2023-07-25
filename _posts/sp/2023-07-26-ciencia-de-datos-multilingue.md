@@ -25,54 +25,79 @@ Los siguientes diez consejos resumen lo que hemos aprendido en estas traduccione
 
 ##### 1. Motivación
 La traducción de material técnico de documentos vivos es un proceso largo, con dos etapas bien definidas que involucran distintos recursos. La primera etapa es alcanzar una versión completa del material traducido, y la segunda es mantener el material actualizado y sincronizado entre los idiomas. El tipo de proyecto, los objetivos, estadío, motivación y expectativas deben ser claros desde el inicio para tener la mejor chance de tener éxito. En las traducciones colaborativas hay diferentes niveles de motivación:
-Motivaciones comunitarias; por ejemplo, hacer accesible el material a personas de Latinoamérica y usarlo en talleres específicos. 
-Motivaciones personales de las personas involucradas en el proyecto, tales como aprender y discutir el contenido con las participantes mientras se traduce.
+
+- **Motivaciones comunitarias**; por ejemplo, hacer accesible el material a personas de Latinoamérica y usarlo en talleres específicos. 
+- **Motivaciones personales** de las personas involucradas en el proyecto, tales como aprender y discutir el contenido con las participantes mientras se traduce.
+  
 Antes que las personas puedan decidir participar, debemos detallar los tipos de beneficios que pueden obtener, tales como aprender habilidades técnicas que les serán útiles más allá de este proyecto, devolverle algo a su comunidad, ganar experiencia trabajando en colaboración en equipos internacionales y de código abierto, conectarse con gente de intereses similares, ampliar sus redes y mentorear a otras personas durante el proyecto.
 
 ##### 2. Consentimiento de las autoras o autores del texto
 La mayoría de los materiales tienen una licencia y para las traducciones, la licencia debe permitir trabajos derivados. Tanto las/los autoras/es como la editorial pueden tener derechos sobre el material. Solicitá su consentimiento y haz que sean parte del proceso para realizarles consultas y pedirles su opinión. En un texto técnico las/los autores pueden haber definido nuevos términos, por lo que poder mantener un intercambio con estas personas es esencial para que la traducción sea lo más fiel posible al texto original. 
+
 Desde el punto de vista de las/los autoras/es, este intercambio invariablemente mejora el texto original, desde corrección de errores hasta encontrar ejemplos más diversos o lagunas en el contenido. Si se desea promover las traducciones, se puede crear el contenido teniendo esto en mente, por ejemplo publicando el texto en lenguaje de marcado, en un repositorio público, o crear el texto con una estructura para múltiples lenguajes. Si el material fue publicado por una organización, ésta puede asignar fondos a iniciativas de traducción comunitarias.
 
 ##### 3. Comparte y documenta tu proceso y acuerdos
-Tener guías escritas claras para contribuir y tomar decisiones hace más sencillo todo el proceso de traducción. En esta sección, nos enfocamos en el aspecto técnico del proyecto; ver la sección 10 para detalles sobre construir un documento de gobernanza para formalizar el proceso de toma de decisión y cómo interactúan quienes participan del proyecto.
+Tener guías escritas claras para contribuir y tomar decisiones hace más sencillo todo el proceso de traducción. En esta sección, nos enfocamos en el **aspecto técnico del proyecto**; ver la sección 10 para detalles sobre construir un **documento de gobernanza** para formalizar el proceso de toma de decisión y cómo interactúan quienes participan del proyecto.
+
 Para tu proyecto, necesitas discutir, usar y actualizar varios instrumentos, tales como:
-Roles y responsabilidades: qué personas traducen, revisan, editan, lideran el proyecto, realizan el diseño gráfico, etc. Ayuda a designar responsables y dar crédito por sus contribuciones (ver secciones 6 y 10).
-Una agenda tentativa con plazos, tareas asignadas y seguimiento del proceso. Ayuda a mantener el proyecto en marcha (ver sección 6).
-Una guía con los acuerdos sobre el uso del lenguaje, detallando: 
-Uso de la voz (e.g., conversacional, no científica o formal)
-Variedad dialectal (ver secciones 7 y 8 ).
-Reglas gramaticales, ortográficas y de puntuación.
-Guía de lenguaje inclusivo y no sexista.
-Traducción de figuras y texto alternativo (accesibilidad, ver sección 5)
-Glosario técnico bilingüe (ver sección 9).
-Palabras no técnicas a ser traducidas, como los nombres de las personas o las ciudades en los ejemplos (ver localización en la sección 4).
-Estos productos del proyecto son tan importantes y útiles como el texto principal traducido. Compártelos con una licencia abierta.
+
+- Roles y responsabilidades: qué personas traducen, revisan, editan, lideran el proyecto, realizan el diseño gráfico, etc. Ayuda a designar responsables y dar crédito por sus contribuciones (ver secciones 6 y 10).
+- Una agenda tentativa con plazos, tareas asignadas y seguimiento del proceso. Ayuda a mantener el proyecto en marcha (ver sección 6).
+- Una guía con los acuerdos sobre el uso del lenguaje, detallando: 
+-- Uso de la voz (e.g., conversacional, no científica o formal)
+-- Variedad dialectal (ver secciones 7 y 8 ).
+-- Reglas gramaticales, ortográficas y de puntuación.
+-- Guía de lenguaje inclusivo y no sexista.
+-- Traducción de figuras y texto alternativo (accesibilidad, ver sección 5)
+-- Glosario técnico bilingüe (ver sección 9).
+-- Palabras no técnicas a ser traducidas, como los nombres de las personas o las ciudades en los ejemplos (ver localización en la sección 4).
+-- Estos productos del proyecto son tan importantes y útiles como el texto principal traducido. Compártelos con una licencia abierta.
 
 ##### 4. El foco es la traducción
 La internacionalización se refiere a la tecnología y diseños que permiten que el software se adapte a varias regiones sin cambios en el código fuente. La solución técnica nos permite localizar nuestro contenido. [^8]
 La localización hace más accesible y adecuado a un contenido para otra región, país o público. [^8] Esto incluye al idioma, formato de fechas, monedas, unidades de medición y compatibilidad con distintos caracteres de texto.
+
 Hay muchas soluciones para internacionalizar y localizar contenidos. Entre estos esfuerzos, la traducción es típicamente el componente que más tiempo demanda. [^8]
+
 Muchos proyectos enfocan sus esfuerzos en la internacionalización, escogiendo la herramienta adecuada para el trabajo, por ejemplo, sistemas de manejo de traducción (Crowdin, Transifex, Weblate), traductores automáticos (Google Translate, DeepL); y sistemas de control de versiones (GitHub, GitLab), lenguajes de marcado (LaTeX, Markdown) y herramientas para escribir estos lenguajes (Overleaf, RStudio).
+
 Sea cual sea la herramienta de traducción y lenguaje de marcado que seleciones, no deberían ser una barrera para el equipo. Elige las herramientas que mejor se ajusten a tu equipo y al material. Por ejemplo, ¿Cuán importante es priorizar el control de versiones? ¿Las actualizaciones? ¿Realizar previsualizaciones? ¿El formato de salida? ¿Qué nivel de conocimientos básicos es necesario para contribuir?
+
 Adicionalmente, crea procesos que ayuden a aquellas personas del equipo que no puedan utilizar alguna herramienta debido a la accesibilidad o a sus habilidades. Entrena al equipo en la infraestructura del proyecto, desarrolla instructivos (videos, tutoriales) sobre cómo usar las herramientas, crea oportunidades de traducción entre pares y organiza reuniones de trabajo conjunto y de incorporación de nuevos miembros al equipo.
 
 ##### 5. Lenguaje inclusivo y no sexista
 Muchos idiomas utilizan indicadores de género femenino y masculino. El uso de lenguaje no sexista o que no realice distinción de género en la traducción tiene por objetivo evitar elecciones léxicas que son sesgadas, discriminatorias o excluyentes. En las comunidades de tecnología y ciencia de datos, usar lenguaje no sexista ayuda a luchar contra los estereotipos sobre los roles de género y a promover la representación femenina y de personas no binarias.
-“El tipo de lenguaje que usamos no es inocente. Si usamos un lenguaje que toma como norma y medida de la humanidad solo a una parte de ella (lo masculino), ayudamos a que persista en el imaginario colectivo la percepción de que las mujeres son subsidiarias, secundarias y prescindibles. A ese uso llamamos uso sexista del lenguaje.” [^9]
+
+<center>
+<figure>
+    “El tipo de lenguaje que usamos no es inocente. Si usamos un lenguaje que toma como norma y medida de la humanidad solo a una parte de ella (lo masculino), ayudamos a que persista en el imaginario colectivo la percepción de que las mujeres son subsidiarias, secundarias y prescindibles. A ese uso llamamos uso sexista del lenguaje.” [^9]
+</figure>
+</center>
+
 Estudia las recomendaciones de uso de lenguaje no sexista en el idioma que quieras traducir, busca consejos de personas expertas, discute con el equipo y documenta la decisión para ser consistente a través de los capítulos (y proyectos). Por ejemplo, The Carpentries decidió usar siempre el femenino en sus traducciones al español. En T3 y rOpenSci, ajustamos la redacción para evitar asignar un género. En caso de no poder evitar una marca de género, utilizamos divisiones femenino/masculino o masculino/femenino. Por consistencia a lo largo del texto y para mostrar que no hay una jerarquía en particular, alternamos el uso de estas divisiones entre capítulos, siendo consistentes dentro de cada capítulo. Otra posibilidad es el uso de pronombres, sustantivos y adjetivos no binarios (en español, usar la e o la x son las opciones más comunes). ¿Cuál es la mejor opción para tu comunidad?
 
 ##### 6. Pasito a pasito: seguimiento del progreso y contribuciones
 Divide el trabajo en actividades menores e hitos para mejorar la asignación de tareas y el seguimiento. Para las traducciones de libros, un capítulo es una buena unidad de división. Pero otros ítems deben ser traducidos también, como figuras, textos alternativos, ejemplos de código y conjuntos de datos. Hay también actividades extra, tales como comprobar el uso correcto del lenguaje no sexista o inclusivo, revisar la ortografía y gramática, evaluar referencias externas alternativas que estén disponibles en el idioma de la traducción, entre otras.
+
 Mantener un registro de estas actividades te permitirá intervenir, asistir, discutir un proceso, buscar reemplazos o más participantes, buscar una herramienta alternativa y realizar reportes períodicos del progreso (¡incluso si no se ha avanzado!). En T3, informábamos el progreso semanalmente en el canal de Slack de la traducción, detallando las tareas completadas y agradeciéndoles a quienes participaron de ellas. Para la traducción de R4DS, las tareas completadas se actualizaban en un repositorio GitHub. 
+
 El seguimiento y la elaboración de informes permite que todas las contribuciones sean reconocidas adecuadamente, no sólo los roles más comunes (traducción, revisión, edición) sino también los de quienes aconsejan en asuntos específicos, resuelven problemas técnicos o realizan tareas de diseño gráfico.
+
 La herramienta que uses para registrar esta información estará relacionada con la herramienta usada para las traducciones. Por ejemplo, puedes usar proyectos de GitHub e issues, como hicimos en R4DS y rOpenSci; o una planilla compartida e issues de GitHub, como hicimos en T3. Algunos sistemas de gestión de traducciones registran los progresos, pero no quién contribuye. Cualquiera sea el conjunto de herramientas que elijas, mantén tu progreso actualizado, registra la información necesaria para dar créditos adecuadamente, y conoce cuánto tiempo lleva cada una de las tareas. Esta información será beneficiosa para este y otros proyectos.
 
 ##### 7. Flexibilidad: no seas literal y acerca el mensaje a tu público
 Este punto está relacionado directamente a la localización. Examina los ejemplos, código fuente, datos, expresiones idiomáticas, poemas, canciones, deportes, metáforas y analogías incluidas en tu material fuente. Se trata de ítems que no pueden ser traducidos literalmente (y en ellos usualmente fallan las aplicaciones de traducción por inteligencia artificial). ensu lugar, haz una propuesta de traducción que permita entender el significado de la expresión y que, a la vez, sea lo más fiel posible al significado del texto original para tu público destinatario. Puedes preguntarle a una persona bilingüe o a quien escribió el trabajo por el significado de la frase. También, puedes adaptar los ejemplos usando datos regionales y artistas o ejemplos culturales locales.
+
 En el libro T3 hay un ejemplo que usa la geografía de Canadá, el cual decidimos reemplazar por un ejemplo de Latinoamérica: 
-Texto original (traducción literal del inglés): “Errores fácticos como creer que Vancouver es la capital de British Columbia (es Victoria).”
-Ejemplo en español: “Errores fácticos como creer que Río de Janeiro es la capital de Brasil (es Brasilia).”
-	En un fragmento de código de R4DS para enseñar bucles, reemplazamos la canción “Ten green bottles” (traducción literal “Diez botellas verdes”) por “Cinco ranitas verdes” que es la versión en español de la canción. También tradujimos todos los datos de los propios ejercicios, incluyendo los nombres de las variables, las monedas, el formato de las fechas y las unidades de medición. En T3, usamos un poema de María Elena Walsh en un código para enseñar funciones.
+
+<center>
+<figure>
+    Texto original (traducción literal del inglés): “Errores fácticos como creer que Vancouver es la capital de British Columbia (es Victoria).”<br/>
+    Ejemplo en español: “Errores fácticos como creer que Río de Janeiro es la capital de Brasil (es Brasilia).”
+</figure>
+</center>
+
+En un fragmento de código de R4DS para enseñar bucles, reemplazamos la canción “Ten green bottles” (traducción literal “Diez botellas verdes”) por “Cinco ranitas verdes” que es la versión en español de la canción. También tradujimos todos los datos de los propios ejercicios, incluyendo los nombres de las variables, las monedas, el formato de las fechas y las unidades de medición. En T3, usamos un poema de María Elena Walsh en un código para enseñar funciones.
 
 ##### 8. Diversidad lingüística
 Un idioma diverso necesita un equipo de traducción diverso. Algunas lenguas tienen dialectos o variaciones regionales. Por ejemplo, el término en inglés “green beans” podría traducirse de muchas formas posibles en países hispanoparlantes: chauchas, porotos verdes, ejotes, vainitas, vainicas, judías verdes, habichuelas, alubias verdes… En algunos países se usan más anglicismos en los textos técnicos que en otros. Con personas de distintos países traduciendo y revisando un mismo texto original, estas diferencias idiomáticas surgirán durante el proceso y, trabajando en comunidad, podrán tomar la decisión que mejor se adapte al público al que va dirigido.
