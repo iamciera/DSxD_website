@@ -3,7 +3,13 @@ title: "Multilingual Data Science: Ten Tips to Translate Science and Tech Conten
 date: 2023-07-26 01:00:00
 description: Yanina Bellini Saibene & Natalia Soledad Morandeira
 featured_image: /assets/img/theme/bellini.png
+locale: en
+uid: ciencia-de-datos-multilingue
 ---
+
+
+{% include language-selector.html %}
+
 
 Language is a cognitive instrument; it is our vehicle for learning and building our world, and thus it can become a source of exclusion.
 

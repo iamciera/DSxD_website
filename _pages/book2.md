@@ -69,8 +69,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 | **[Irony Creek](./blog/irony-creek)** Sharla Gelfand                                                                                                      | July 12          |   |
 | **[On archiving (data)](./blog/on-archiving-data)** Stina Baudin                                                                                                | July 19          |   |
 | **[Data & Organizing are about PEOPLE and POWER](./blog/data-organizing-are-about-people-and-power)** Lauren Renaud                                                                      | July 19          |   |
-| **Decolonizing Land Tenure Systems in Cameroon: An Inclusive Data Science Approach** Jacques Wilfried Kenfack Kenjio                | July 26          |   |
-| **Multilingual Data Science: Ten Tips to Translate Science and Tech Content** Yanina Bellini Saibene and Natalia Soledad Morandeira | July 26          |   |
+| **[Decolonizing Land Tenure Systems in Cameroon: An Inclusive Data Science Approach](./blog/decolonizing-land-tenure-systems-in-cameroon)** Jacques Wilfried Kenfack Kenjio                | July 26          |   |
+| **[Multilingual Data Science: Ten Tips to Translate Science and Tech Content](./blog/multilingual-data-science)** Yanina Bellini Saibene and Natalia Soledad Morandeira | July 26          |   |
 | **A Conversation with Allison Horst** Interviewed by Jenn Schilling                                                                 | August 2         |   |
 | **How Do You Document a Tech Project with Comics?** Julia Evans                                                                     | August 2         |   |
 | **Data Quilts: Exploring Environmental Data Through Textile Art**  Nancy Smith                                                      | August 9         |   |
