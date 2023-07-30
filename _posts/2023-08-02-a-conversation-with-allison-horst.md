@@ -1,13 +1,17 @@
 ---
 title: A Conversation with Allison Horst
-date: 2023-08-02 01:00:00
-description: Jenn Schilling
-featured_image: /assets/img/theme/allison.png
+date: 2023-07-30 01:00:00
+description: Interviewd by Jenn Schilling
+featured_image: /assets/img/horst_figure3.png
 locale: en
 uid: allison-horst
 ---
 
 {% include language-selector.html %}
+
+<p align="center">
+  <img height="300" src="../assets/img/theme/allison.png" alt="Black and white illustration of a woman, Allison Horst, smiling with long slightly wavy hair." >
+</p>
 
 Allison Horst is an artist and a data scientist advocate at Observable. She’s created a library of open artwork for data science and statistics education and has also been a painter her entire life, focusing on landscape and plein air oil painting. You can find her work at [https://allisonhorst.com/](https://allisonhorst.com/).
 
@@ -24,6 +28,14 @@ At that point I was drawing with pen and ink on paper, which is awful, because t
 [Working digitally] was truly a life-changing experience, like oh my goodness, I can draw this thing, and I can just share it immediately! I don't have to fuss with all the parts of sharing artwork that I'm not interested in; it’s just immediate. And I can press Undo, which I think was the most empowering thing I have ever felt as an artist—being able to undo something. What people, I think, now recognize as my data science artwork was what I started when I began working digitally.
 
 It's amazing how technology can change things. The level of risk-taking you're allowed to take in being creative with a tool like the iPad is incredible. If I had been using pen and paper or paint and paper with these little monsters and I wondered, “What happens if I put a hat on one of them?” the risk is that if it doesn't work, then I'm throwing the whole thing in the trash. Pressing Undo sounds like such a simple thing, but what it really means is that you can take risks that you otherwise wouldn't have. And that's a pretty amazing thing for an artist.
+
+<center>
+<figure>
+	<img src="../assets/img/horst_figure1.png" alt="Cartoon showing a table with creature type (kraken, dragon, or cyclops) and age (baby, teen, or adult). The three creatures listed are adding a new column named “danger,” which contains the word “extreme!” if the type is “kraken” or “high” for any other type. Stylized text reads “dplyr::case_when() - IF ELSE...(but you love it?)” An example of code is shown: “mutate(danger = case_when(type == “kraken” ~ “extreme!”, TRUE ~ “high”).”
+">
+	<figcaption> Cartoon illustrating dplyr’s case_when() function.</figcaption>
+</figure>
+</center>
 
 ##### What is your process like? How do you go from idea to project/product?
 
@@ -44,7 +56,13 @@ The way that I think about both landscape painting and the little data science m
 With landscape painting, you usually don't want a straight hedge across the front of a canvas because that doesn't give a viewer a way in. So in a lot of paintings, the foreground will have either a literal pathway into it, or a visual path that guides you into the painting. Often the lines of the painting (or the landscape) will pull you back in. With the monster illustrations, I try to do the same thing. Like, hey, come hang out for a while—you might learn something, see something in a different way, or feel inspired to investigate something a bit more.
 
 Even in these different genres of art—plein air landscape painting and digital monsters doing data science—though they're stylistically totally different and the media is totally different, they’re both trying to share an entryway into something in a way that engages and resonates with people.
-
+<center>
+<figure>
+	<img src="../assets/img/horst_figure2.png" alt="A cartoon of a fuzzy round monster face showing ten different emotions experienced during the process of debugging code. The progression goes from (1) “I got this.”—looking determined and optimistic; (2) “Huh. Really thought that was it.”—looking a bit baffled; (3) “...”—looking up at the ceiling in thought; (4) “Fine. Restarting.”—looking a bit annoyed; (5) “OH WTF.”—looking very frazzled and frustrated; (6) “Zombie meltdown.”—looking like a full meltdown; (7) (blank)—sleeping; (8) “A NEW HOPE!”—a happy-looking monster with a lightbulb above its head; (9) “[insert awesome theme song]”—looking determined and typing away; (10) “I love coding!”—arms raised in victory with a big smile, with confetti falling.”
+">
+	<figcaption>Debugging and Feelings. A cartoon illustrating the many emotions a person goes through as they are debugging code.</figcaption>
+</figure>
+</center>
 ##### Are there environments in which you feel most inspired?
 
 I always feel inspired when I’m in the mountains, and in the high desert. We live up in the mountains in a place where we don't see a lot of people—most days we see more coyotes than humans. Being out in nature and in wild places is usually where I’m happiest and most inspired to make artwork.
@@ -69,6 +87,6 @@ I recently saw Helga Stenzel’s work on Twitter and almost lost my mind, and I'
 
 This interview has been shortened and edited for clarity and readability.
 
-**Bio:**
+**Interviewer's Bio:**
 
 Jenn Schilling is a senior research analyst at the University of Arizona, a data science mentor at Posit, and founder of Schilling Data Studio, a data visualization training and consulting agency. Jenn has over a decade of experience working with data in a variety of industries, and through Schilling Data Studio she helps analysts and aspiring analysts grow their data viz, analysis, and R skills so they can effectively communicate data and insights.

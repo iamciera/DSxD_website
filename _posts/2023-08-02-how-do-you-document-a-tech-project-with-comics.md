@@ -1,6 +1,6 @@
 ---
 title: How Do You Document a Tech Project with Comics?
-date: 2023-08-02 01:00:00
+date: 2023-07-30 01:00:00
 description: Julia Evans
 featured_image: /assets/img/theme/Evans_Figure1.jpeg
 locale: en
