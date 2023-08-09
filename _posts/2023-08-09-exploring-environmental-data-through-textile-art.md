@@ -1,6 +1,6 @@
 ---
 title: "Data Quilts: Exploring Environmental Data Through Textile Art"
-date: 2023-08-09 01:00:00
+date: 2023-08-08 01:00:00
 description: Nancy Smith
 featured_image: /assets/img/theme/Smith_figure1.jpg
 locale: en

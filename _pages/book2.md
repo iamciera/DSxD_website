@@ -71,8 +71,8 @@ To give each piece time to shine, we will release two chapters a week on our web
 | **[Data & Organizing are about PEOPLE and POWER](./blog/data-organizing-are-about-people-and-power)** Lauren Renaud                                                                      | July 19          |   |
 | **[Decolonizing Land Tenure Systems in Cameroon: An Inclusive Data Science Approach](./blog/decolonizing-land-tenure-systems-in-cameroon)** Jacques Wilfried Kenfack Kenjio                | July 26          |   |
 | **[Multilingual Data Science: Ten Tips to Translate Science and Tech Content](./blog/multilingual-data-science)** Yanina Bellini Saibene and Natalia Soledad Morandeira | July 26          |   |
-| **A Conversation with Allison Horst** Interviewed by Jenn Schilling                                                                 | August 2         |   |
-| **How Do You Document a Tech Project with Comics?** Julia Evans                                                                     | August 2         |   |
-| **Data Quilts: Exploring Environmental Data Through Textile Art**  Nancy Smith                                                      | August 9         |   |
-| **Transgender Day of Remembrance Visualizing the Queer and Embodied with Ecological Kin** Cathryn Ploehn and Kelsey Campbell        | August 9         |   |
+| **[A Conversation with Allison Horst](./blog/a-conversation-with-allison-horst)** Interviewed by Jenn Schilling                                                                 | August 2         |   |
+| **[How Do You Document a Tech Project with Comics?](./blog/how-do-you-document-a-tech-project-with-comics)** Julia Evans                                                                     | August 2         |   |
+| **[Data Quilts: Exploring Environmental Data Through Textile Art](./blog/exploring-environmental-data-through-textile-art)**  Nancy Smith                                                      | August 9         |   |
+| **[Transgender Day of Remembrance Visualizing the Queer and Embodied with Ecological Kin](./blog/transgender-day-of-remembrance)** Cathryn Ploehn and Kelsey Campbell        | August 9         |   |
 
