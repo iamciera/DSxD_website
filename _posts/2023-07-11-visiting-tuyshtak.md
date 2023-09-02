@@ -87,7 +87,7 @@ As I emerged, I felt a huge gust of wind and looked up at the ridge above me. I 
 
 Waiting for her outside, I felt a strange sense that something was watching me. Or . . . not watching—more like something could see my soul. A comforting-strange supernatural feeling settled over me as I went to my vehicle and changed into my warm clothes.
 
-Ellen walked out of the Visitor Center. I noticed her surreptitiously tap her e-link, get distracted for a moment, and then tap it again to turn it off. Constantly connected Ellen . . .would she be able to let go and get into this experience? Would she miss the opportunity to connect with this place? I wasn’t even Native, myself, and I already knew not to ask about what she was seeking. But as she walked up to me, I was reminded of how much I loved her, how long we’d known each other. Maybe I could still help her in some way.
+Ellen walked out of the Visitor Center. I noticed her surreptitiously tap her e-link, get distracted for a moment, and then tap it again to turn it off. Constantly connected Ellen . . . would she be able to let go into this experience? Would she miss the opportunity to connect with this place? I wasn’t even Native, myself, and I already knew not to ask about what she was seeking. But as she walked up to me, I was reminded of how much I loved her, how long we’d known each other. Maybe I could still help her in some way.
 
 Together, we set off.
 
