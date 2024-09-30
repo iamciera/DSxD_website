@@ -32,9 +32,7 @@ blog_settings:
 menu_settings:
   menu_items:
     - title: 'Home'
-      url: /    
-    - title: Events
-      url: /events       
+      url: /        
     - title: 'Blog'
       url: /blog
     - title: 'Books'
@@ -45,6 +43,17 @@ menu_settings:
       - title: Vol. 1 Future of Data Science
         url: /book
         icon: ni-books text-primary
+    - title: 'Events'
+      submenu_items:
+      - title: DSxD Studio
+        url: /studio
+        icon: ni-books text-primary   
+      - title: Conferences
+        url: /events 
+        icon: ni-books text-primary     
+      - title: Book Club
+        url: /book-club
+        icon: ni-books text-primary  
     - title: 'Code of Conduct'
       url: /coc
     - title: 'About'
